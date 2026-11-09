@@ -13,6 +13,8 @@ Questa pagina elenca **fonti originali esterne** e i relativi usi tecnici. Per l
 
 La tavola S01 indica testualmente il riferimento a fotografie di studio, interviste e documentazione d'archivio. Le quote non esplicitamente disponibili non vanno inventate estrapolando il disegno.
 
+| S15 | [**Time Saddle / BarberChair 9-26** (PDF 4 viste, copia privata)](https://drive.google.com/file/d/16c75RXaJoStxhi0dZESMZRg4osjyzDHn/view?usp=drivesdk) | Disegno della Berninghaus 1901 modificata per il film; vista superiore, laterale, frontale, posteriore e barra 0-12 in. © Don Coleman, rev. 2015. NON ripubblicare nel repository pubblico. |
+
 ## Don Coleman: costruzione 2025, componenti a grandezza naturale
 
 | ID | Fonte | Cosa documenta |
@@ -47,5 +49,7 @@ La tavola S01 indica testualmente il riferimento a fotografie di studio, intervi
 - I file Drive non sono stati resi pubblici: il collegamento in un repository pubblico **non dà automaticamente accesso** senza i permessi del proprietario.
 
 ## Cronologia dei controlli
+
+- 2026-11-09 REV05: tavola S15 ricevuta e analizzata, aggiunta copia in Drive privato; le dimensioni pubblicate nel dossier REV05 sono stime grafiche, non quote MGM certificate.
 
 - 2026-11-09: ricontrollate con ricerca web le fonti S02-S06 e S08-S14; verificata l'esistenza del PDF S01 in Drive privato. S07 rimanda all'indice che elenca la relativa parte, senza dedurre un URL alla singola pagina.
