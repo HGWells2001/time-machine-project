@@ -38,7 +38,7 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ## Archivio risorse e politica di pubblicazione
 
-Il catalogo completo delle **15 risorse collegate** in questa fase del progetto è in [ARCHIVIO_RISORSE](docs/ARCHIVIO_RISORSE.md). Contiene i link Drive per tutte le versioni fino alla **REV04**, inclusi i PDF singoli, le tavole e gli ZIP precedenti.
+Il catalogo completo delle **17 risorse collegate** in questa fase del progetto è in [ARCHIVIO_RISORSE](docs/ARCHIVIO_RISORSE.md). Contiene i link Drive per tutte le versioni fino alla **REV04**, inclusi i PDF singoli, le tavole e gli ZIP precedenti.
 
 **Non caricare file `.obj` nel repository**: GitHub conserva soltanto documentazione, tabelle, link e cronologia. Gli eventuali OBJ esistenti restano esclusivamente negli archivi Drive, chiaramente segnalati. Il file [`.gitignore`](.gitignore) esclude OBJ e ZIP da successivi commit locali.
 
