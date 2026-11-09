@@ -15,6 +15,8 @@
 
 | 2026-11-09 | REV06 interfaccia sedia/base | Dossier 10 tavole, sovrapposizione bbox P035/P018, catena quote Z, percorso carichi, checklist, DXF NON CNC | 8 risorse su Drive e registri su GitHub | Progettazione strutturale / scala generale / fori reali ancora BLOCCATI; nessun OBJ pubblicato |
 
+| 2026-11-09 | REV07 carpenteria nascosta e piedi | Dossier 12 tavole, DXF bbox NON CNC, 4 CSV, JSON, fonti Coleman e controllo dei carichi | 9 risorse Drive, schema su GitHub, 16 file nel pacchetto | Tutti i carichi, appoggi e fissaggi restano da dimensionare da tecnico; nessun OBJ pubblicato |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
