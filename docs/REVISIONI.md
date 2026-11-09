@@ -17,6 +17,8 @@
 
 | 2026-11-09 | REV07 carpenteria nascosta e piedi | Dossier 12 tavole, DXF bbox NON CNC, 4 CSV, JSON, fonti Coleman e controllo dei carichi | 9 risorse Drive, schema su GitHub, 16 file nel pacchetto | Tutti i carichi, appoggi e fissaggi restano da dimensionare da tecnico; nessun OBJ pubblicato |
 
+| 2026-11-09 | REV08 piedi ornamentali in legno CNC | 8 STL superfici aperte, 11 tavole A3, DXF silhouette, 4 registri, JSON, schede artigiani e anteprime | 18 nuove risorse Drive, scheda e fonti GitHub | Non contiene cavità, solidi chiusi, giunti o G-code; nessun OBJ pubblicato |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
