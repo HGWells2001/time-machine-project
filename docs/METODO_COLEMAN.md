@@ -22,6 +22,10 @@ Scopo: usare la documentazione del costruttore come guida concreta alla costruzi
 2. [Time Machine Build 2025, Don Coleman](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%201.htm): lavorazione del basamento e progressione del progetto.
 3. Archivio dei dossier `TimeMachine_1960_COLEMAN_ARTIGIANI_REV02.zip` e `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`.
 
+## Nota REV04: stratigrafia e grado di prova
+
+La pagina Coleman del 2025 conferma due fogli da 1/2 in, due da 3/4 in e quattro dime MDF; l'ordine verticale L1-L4 ripreso dalla REV03 non e specificato nella pagina 2025 ed e da verificare sulle altre fonti. I profili dei bordi non sono stati dedotti come file CNC. Vedi [dossier REV04](REV04_BASAMENTO_FALEGNAMERIA.md).
+
 ## Procedura proposta
 
 1. Tracciare e verificare il profilo a piena scala senza tagliare materiali costosi.
