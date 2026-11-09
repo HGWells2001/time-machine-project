@@ -49,6 +49,14 @@ La tavola S01 indica testualmente il riferimento a fotografie di studio, intervi
 - S01 e le fotografie esterne sono di terzi. Questa repository contiene collegamenti e sintesi originali, non scansioni o foto ripubblicate.
 - I file Drive non sono stati resi pubblici: il collegamento in un repository pubblico **non dà automaticamente accesso** senza i permessi del proprietario.
 
+## Tecniche CNC su due facce
+
+| ID | Fonte | Uso e limiti |
+| --- | --- | --- |
+| S17 | [Wood Magazine, *Look at CNC from Both Sides Now*](https://www.woodmagazine.com/tool-reviews/cnc-machines/look-at-cnc-from-both-sides-now) | Principi di registrazione del pezzo durante il ribaltamento e conservazione dei riferimenti XY. È tecnica di officina generale, **non fonte di quote del prop MGM**. |
+
+La scelta di fresare in legno i semigusci dei piedi nella REV08 è una variante moderna del nostro progetto, distinta dagli stampi in silicone e dalle resine pubblicate da Coleman.
+
 ## Cronologia dei controlli
 
 - 2026-11-09 REV06: verificata la testimonianza S16 di Perrotta sull'interfaccia originale della sedia MGM. Quote dei fori ignote; collegata nella REV06.
