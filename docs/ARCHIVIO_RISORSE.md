@@ -10,7 +10,7 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV06 interfaccia sedia/base (ZIP, 12 file)** | Tavole di sovrapposizione, rilievi e percorso carichi da verificare | [Drive: REV04 ZIP](https://drive.google.com/file/d/1nMBo4vrMrQ60BUlX-t8cCCC2sY1N8tcW/view?usp=drivesdk) |
+| **REV06 interfaccia sedia/base (ZIP, 12 file)** | Tavole di sovrapposizione, rilievi e percorso carichi da verificare | [Drive: REV06 ZIP](https://drive.google.com/file/d/1nMBo4vrMrQ60BUlX-t8cCCC2sY1N8tcW/view?usp=drivesdk) |
 | **REV04 dossier A3 (PDF, 10 tavole)** | Da mostrare al falegname per discussione e preventivo preliminare | [Drive: REV04 PDF](https://drive.google.com/file/d/1yJnLVKqvBJ3xbih43BT39fKS68hejVGY/view?usp=drivesdk) |
 | **Fonti di Coleman, Perrotta e fotografie MGM** | Riferimenti storici, quote documentate e metodi | [Fonti e provenienza](FONTI.md) |
 | **Registro delle quote** | Valori in mm/in, stato e origine | [CSV in repository](../data/registro_quote.csv) |
