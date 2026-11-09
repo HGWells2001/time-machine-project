@@ -6,6 +6,7 @@
 | 2026-11-09 | Doppia quotatura | Dime PDF e DXF metrici con riferimento in pollici | Materiale per confronto artigianale | Nessun file esecutivo certificato |
 | 2026-11-09 | REV02 Coleman | Ricerca metodi di lavorazione, studio disco, distinta per artigiani | Dossier metodologico | Le tecniche vanno adattate/verificate |
 | 2026-11-09 | REV03 basamento/piedi | Pianta ortogonale, stratigrafia nominale, posizioni preliminari, schema supporti | Pre-progettazione | Quote/attacchi/portate da validare |
+| 2026-11-09 | REV04 falegnameria | Dossier A3 (10 pagine), DXF di riscontro P035, D1-D4 da rilevare, campioni, gates H0-H7, distinta e preventivo | Pacchetto e dossier su Drive, tracciamento su GitHub | Non sono state prodotte dime esecutive o forature approvate |
 | 2026-11-09 | GitHub tracking 0.1 | README, avanzamento, quote, issue aperte | Registro iniziale | Non modifica gli elaborati CAD esistenti |
 
 ## Regole di revisione
