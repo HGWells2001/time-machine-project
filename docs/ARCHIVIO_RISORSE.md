@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV07)
+# Archivio risorse e download (fino alla REV08)
 
-**Aggiornamento:** 2026-11-09 (REV07). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-09 (REV08). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,10 +10,10 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV07 telaio e piedi (ZIP, 16 file)** | 12 tavole sulla carpenteria, ruote, gusci resina e stabilità | [Drive: REV07 ZIP](https://drive.google.com/file/d/1RPaJcKd7_iMTSe7SbWVm6zwl31C4Aom-/view?usp=drivesdk) |
-| **REV04 dossier A3 (PDF, 10 tavole)** | Da mostrare al falegname per discussione e preventivo preliminare | [Drive: REV04 PDF](https://drive.google.com/file/d/1yJnLVKqvBJ3xbih43BT39fKS68hejVGY/view?usp=drivesdk) |
-| **Fonti di Coleman, Perrotta e fotografie MGM** | Riferimenti storici, quote documentate e metodi | [Fonti e provenienza](FONTI.md) |
-| **Registro delle quote** | Valori in mm/in, stato e origine | [CSV in repository](../data/registro_quote.csv) |
+| **REV08, piedi CNC in legno (ZIP 23 file)** | 8 STL di superfici aperte, dossier, DXF, registri | [Drive: REV08](https://drive.google.com/file/d/1ecdclIXV0Ws0Q1FsSOXR9kwvF_wlfCpC/view?usp=drivesdk) |
+| **REV08, 11 tavole A3** | Coordinamento e preventivo falegname CNC, NON esecutivo | [Drive: dossier PDF](https://drive.google.com/file/d/1udbiZIESlwbwog-1dxQ7hlpWje-E5zRA/view?usp=drivesdk) |
+| **REV08, relazione e fonti** | Geometria, simmetrie e progettazione mancante | [Scheda REV08](REV08_PIEDI_LEGNO_CNC.md) |
+| **Tutte le fonti originali** | Coleman, Perrotta e metodi costruttivi | [Fonti](FONTI.md) |
 
 ## Registro completo delle risorse create o conservate
 
@@ -64,13 +64,32 @@
 | R39 | REV07 | Dati geometrici da bbox e provenienza | JSON | STUDIO | [Drive](https://drive.google.com/file/d/15DrEoDog1jlsyYONe3qUKsqrPFwrKGNg/view?usp=drivesdk) |
 | R40 | REV07 | Panoramica delle 12 tavole A3 | PNG | STUDIO | [Drive](https://drive.google.com/file/d/1p2dkfbGA_vNPqmkQG3aupcJ4PNHYwo4I/view?usp=drivesdk) |
 
+| R41 | REV08 | ZIP REV08 23 file senza OBJ | ZIP | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1ecdclIXV0Ws0Q1FsSOXR9kwvF_wlfCpC/view?usp=drivesdk) |
+| R42 | REV08 | PDF A3 11 tavole | PDF | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1udbiZIESlwbwog-1dxQ7hlpWje-E5zRA/view?usp=drivesdk) |
+| R43 | REV08 | DXF sagome NON CNC | DXF | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1ocefri311QlB8QuZGsBckowxlK5HJpTU/view?usp=drivesdk) |
+| R44 | REV08 | CSV otto semigusci | CSV | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1brUZ-aXOO8cb46VPJ0nt6jcogrik3HTK/view?usp=drivesdk) |
+| R45 | REV08 | CSV simmetrie | CSV | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1SeTuMvzOo7Gt15-Q7t-wG_zXCvG4VH7T/view?usp=drivesdk) |
+| R46 | REV08 | CSV gate CNC | CSV | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1g5MQJSJcAT7DJhbTMdvyvvW07JdAKEtV/view?usp=drivesdk) |
+| R47 | REV08 | CSV distinta preventivo | CSV | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1ECW271GSZeFA7mTrvq-UlW9LV-c5euP5/view?usp=drivesdk) |
+| R48 | REV08 | JSON origine mesh | JSON | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1kK9g_HiTPJj1vTMkvUsqjxdzd7-7trz-/view?usp=drivesdk) |
+| R49 | REV08 | PNG semigusci | PNG | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1gAAV2Mv0ydKuwM5AA7_GPRKjlz5Q_K4I/view?usp=drivesdk) |
+| R50 | REV08 | PNG 4 sagome | PNG | PRELIMINARE / STUDIO | [Drive](https://drive.google.com/file/d/1Bov32dbIkdb6IRm3toPuEihE4f0pHjsZ/view?usp=drivesdk) |
+| R51 | REV08 | STL P031-A, superficie aperta NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1pPUSSRcoY4fhcTcJ7YIMYHxQPzU3xfsF/view?usp=drivesdk) |
+| R52 | REV08 | STL P031-B, superficie aperta NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1egnsDGmndI02RaRUmfacvXaPkyJtCJ2Q/view?usp=drivesdk) |
+| R53 | REV08 | STL P032-A, superficie aperta NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1XSs4DvcSWeUBK4dtGRTcTUnXLwj7xmsf/view?usp=drivesdk) |
+| R54 | REV08 | STL P032-B, superficie aperta NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1j6BOVDIW_6fSkRidle95fpAAdNx1lbAY/view?usp=drivesdk) |
+| R55 | REV08 | STL P033-A, superficie aperta NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1OBh5XJ5z8a4cOiwoKhJm2pkNqM416XCM/view?usp=drivesdk) |
+| R56 | REV08 | STL P033-B, superficie aperta NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1jVz_Q6Wu9PNaMT7YICRH4UMdBjCxCbyX/view?usp=drivesdk) |
+| R57 | REV08 | STL P034-A, superficie aperta NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1KGcqEAcSHPMKSfLP0knv2ujbaZaDemth/view?usp=drivesdk) |
+| R58 | REV08 | STL P034-B, superficie aperta NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/15urBddFt_AG5lWHDnuic29YPASMXtfIT/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
 
 Il pacchetto REV07 R32 contiene 16 file: PDF A3 12 tavole, DXF di soli ingombri, 4 CSV, JSON coordinate, scheda artigiani, file fonti, README, manifesto SHA256 e 4 PNG di anteprima.
 
-## Come trovare i singoli file negli ZIP
+Il pacchetto REV08 (R41) comprende 23 file: 8 STL esterni APERTI, 1 PDF A3 di 11 pagine, 1 DXF di silhouette, registri, anteprime e schede. Questi STL non sono solidi pronti per CAM. Nessun OBJ è contenuto o pubblicato.\n\n## Come trovare i singoli file negli ZIP
 
 Le tabelle seguenti riportano i percorsi interni verificati e i gruppi di contenuti; per ciascun elemento il **collegamento è quello all'archivio Drive**. Non esistono URL pubblici separati per i membri non estratti.
 
