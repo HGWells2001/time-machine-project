@@ -1,0 +1,60 @@
+# Avanzamento delle lavorazioni
+
+**Aggiornamento iniziale: 2026-11-09 | Fase: pre-progettazione.**
+
+Le parole **preparato** e **documentato** non significano **pronto per costruire**.
+
+## Priorità 1: risolvere le quote generali
+
+- [x] Raccolta tavola Perrotta/Coleman.
+- [x] Disponibile OBJ con circa 75 gruppi di geometria.
+- [x] Pacchetto 1:1 preliminare con doppia unità mm / in.
+- [ ] Identificare tutte le quote originali leggibili sulla tavola, registrando posizione e fonte.
+- [ ] Verificare diametro disco, lunghezza, larghezza e altezza rispetto alla replica cinematografica desiderata.
+- [ ] Ricalibrare l'OBJ solo dopo aver fissato riferimenti coerenti.
+- [ ] Approvare una nuova tavola generale di ingombro.
+
+## Priorità 2: basamento + piedi, REV03
+
+- [x] Scheda della stratigrafia Coleman: 2 × ½″ e 2 × ¾″, totale 2½″ (63,5 mm nominali).
+- [x] Profilo di riferimento dal modello OBJ e posizioni approssimate di quattro piedi.
+- [x] Distinzione tra rivestimento estetico e supporto in acciaio.
+- [ ] Verificare sagome con quote originali / modello di prova a scala ridotta.
+- [ ] Definire essenza e tipo di compensato, collanti, orientamento vene, spessori effettivi disponibili in Italia.
+- [ ] Disegnare quattro dime individuali, profili di fresatura e dettagli dei giunti.
+- [ ] Progettare giunzioni e struttura portante metallica indipendente dalle parti ornamentali.
+- [ ] Verificare capacità di carico, stabilità al ribaltamento, rotelle, punti di sollevamento, interfaccia alla sedia.
+- [ ] Far approvare gli esecutivi a falegname e tecnico strutturale prima del taglio CNC.
+
+## Priorità 3: sedia
+
+- [x] Identificata la Berninghaus 1901 come riferimento citato nella documentazione Coleman.
+- [ ] Stabilire modello esatto e differenze rispetto al prop cinematografico.
+- [ ] Decidere se reperire/restaurare una sedia originale o costruire una riproduzione in legno.
+- [ ] Disegnare struttura resistente e fissaggio al basamento.
+- [ ] Definire intagli, imbottitura, tappezzeria e finiture.
+- [ ] Testare portata e stabilità prima dell'uso.
+
+## Priorità 4: grande disco posteriore
+
+- [x] Segnalata differenza tra riferimento Coleman 60″ e OBJ precedente.
+- [ ] Convalidare misura sul corretto allestimento/epoca.
+- [ ] Definire mozzo, struttura interna, materiale, supporto, massa e eventuale rotazione.
+- [ ] Documentare caratteristiche delle decorazioni, senza assumere che siano strutturali.
+- [ ] Progettare fissaggio e protezioni.
+
+## Priorità 5: carpenteria e finiture
+
+- [ ] Corrimano curvati: verificare diametro, raggi, attacchi e materiali.
+- [ ] Console e quadranti: disegni per tornio/incisione.
+- [ ] Carter e pannelli curvi: campioni e dime.
+- [ ] Trattamenti superficiali e riproduzione cromatica.
+- [ ] Impianti luce/audio/animazione: studio a bassa tensione e sicurezza elettrica.
+
+## Criteri di chiusura per ogni sottoassieme
+
+Una lavorazione può essere segnata **PRONTA PER PREVENTIVO VINCOLANTE / FABBRICAZIONE** solo se disponibili: fonte quote, revisione congelata, viste e sezioni, distinta materiali, tolleranze, fissaggi, massa, rischio e verifica tecnica applicabile. L'approvazione appartiene all'artigiano responsabile e ai tecnici competenti.
+
+## Archivio esterno
+
+La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
