@@ -14,6 +14,8 @@ Questa pagina elenca **fonti originali esterne** e i relativi usi tecnici. Per l
 
 La tavola S01 indica testualmente il riferimento a fotografie di studio, interviste e documentazione d'archivio. Le quote non esplicitamente disponibili non vanno inventate estrapolando il disegno.
 
+| S16 | [**Chris Perrotta, The Time Machine chair**](https://erkelzaar.tsudao.com/models/perrotta/TM_chair.htm) | Testimonianza sulla **sedia MGM originale**: piedistallo rimosso, impronte di quattro gambe e due fori per aste di fissaggio al basamento. Foto con copyright esterno; non copiarle. Fori non quotati, non utilizzabili come dima. |
+
 ## Don Coleman: costruzione 2025, componenti a grandezza naturale
 
 | ID | Fonte | Cosa documenta |
@@ -48,6 +50,8 @@ La tavola S01 indica testualmente il riferimento a fotografie di studio, intervi
 - I file Drive non sono stati resi pubblici: il collegamento in un repository pubblico **non dà automaticamente accesso** senza i permessi del proprietario.
 
 ## Cronologia dei controlli
+
+- 2026-11-09 REV06: verificata la testimonianza S16 di Perrotta sull'interfaccia originale della sedia MGM. Quote dei fori ignote; collegata nella REV06.
 
 - 2026-11-09 REV05: tavola S15 ricevuta e analizzata, aggiunta copia in Drive privato; le dimensioni pubblicate nel dossier REV05 sono stime grafiche, non quote MGM certificate.
 
