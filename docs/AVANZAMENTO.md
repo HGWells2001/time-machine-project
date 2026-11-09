@@ -1,6 +1,6 @@
 # Avanzamento delle lavorazioni
 
-**Aggiornamento REV04: 2026-11-09 | Fase: pre-progettazione.**
+**Aggiornamento REV05: 2026-11-09 | Fase: pre-progettazione.**
 
 Le parole **preparato** e **documentato** non significano **pronto per costruire**.
 
@@ -30,6 +30,9 @@ Le parole **preparato** e **documentato** non significano **pronto per costruire
 
 ## Priorità 3: sedia
 
+- [x] REV05: tavola 4 viste archiviata nel Drive privato, PDF artigiani 8 pagine e registro mm/in di stime grafiche, con [scheda](REV05_SEDIA_BERNINGHAUS.md).
+- [x] REV05: distinta per falegname, intagliatore, tappezziere e carpentiere, più DXF di soli ingombri NON CNC.
+- [x] Nuovo OBJ TIMEMACHINE(3) verificato identico alla versione già analizzata; non pubblicato.
 - [x] Identificata la Berninghaus 1901 come riferimento citato nella documentazione Coleman.
 - [ ] Stabilire modello esatto e differenze rispetto al prop cinematografico.
 - [ ] Decidere se reperire/restaurare una sedia originale o costruire una riproduzione in legno.
@@ -59,4 +62,4 @@ Una lavorazione può essere segnata **PRONTA PER PREVENTIVO VINCOLANTE / FABBRIC
 
 ## Archivio esterno
 
-La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
+La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
