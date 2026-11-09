@@ -1,0 +1,10 @@
+ID,Componente,Grandezza,Valore_mm,Valore_in,Classe,Fonte,Stato,Note
+Q-001,Basamento,Spessore totale nominale,63.5,2.5,D,Metodo Coleman 2025,documentato per replica,"Quattro strati: due 1/2 in e due 3/4 in; ordine e materiali da verificare"
+Q-002,Basamento,Ingombro longitudinale OBJ,2234,87.9528,G,OBJ calibrato REV03,preliminare,"Non inviare direttamente al taglio"
+Q-003,Basamento,Ingombro trasversale OBJ,1439,56.6535,G,OBJ calibrato REV03,preliminare,"Non inviare direttamente al taglio"
+Q-004,Macchina completa,Ingombro longitudinale OBJ,2475,97.4409,G,OBJ 1:1 preliminare,da verificare,"Dimensione geometrica non certificata da MGM"
+Q-005,Macchina completa,Ingombro trasversale OBJ,1953,76.8898,G,OBJ 1:1 preliminare,da verificare,"Questo dato coincide circa con la larghezza attribuita al disco nell'OBJ"
+Q-006,Macchina completa,Ingombro verticale OBJ,2635,103.7402,G,OBJ 1:1 preliminare,da verificare,"Dimensione geometrica non certificata da MGM"
+Q-007,Disco posteriore,Diametro riportato nella replica Coleman storica,1524,60,D,Documentazione Coleman precedente,da riconciliare,"Verificare la variante e la corrispondenza con macchina cinematografica"
+Q-008,Disco posteriore,Diametro approx OBJ,1953,76.8898,G,OBJ 1:1 preliminare,in conflitto con Q-007,"Non costruire finche' non chiarito"
+Q-009,Corrimano,Diametro tubo di riferimento,38.1,1.5,D,Metodo Coleman,da verificare su progetto specifico,"Verificare se diametro esterno nominale e materiale"
