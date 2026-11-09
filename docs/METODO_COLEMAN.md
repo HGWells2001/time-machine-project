@@ -30,6 +30,10 @@ La pagina Coleman del 2025 conferma due fogli da 1/2 in, due da 3/4 in e quattro
 
 A differenza del processo per i piedi di Coleman (gusci in resina colata mediante stampi), la REV08 propone **8 semigusci in legno CNC**: due metà per ciascuno dei 4 piedi. È una scelta del progetto, **non il metodo eseguito da Coleman**. Si mantiene il principio di supporti interni in acciaio con ruote che sostengono i carichi. Gli STL derivati dall'OBJ precedente sono superfici APERTE e troppo semplificate per la produzione. Vedi [REV08](REV08_PIEDI_LEGNO_CNC.md).
 
+## REV09: prototipo volumetrico e limite del metodo
+
+La REV09 crea 8 solidi chiusi di prova con una tasca pilota e sedi per perni di centraggio, **non** fori strutturali o serraggi. La voxelizzazione a 2,5 mm deriva dalla geometria G precedente e non verifica la fedeltà al prop MGM. Queste lavorazioni CNC in legno sono varianti nostre: Coleman documenta gusci in resina e supporti metallici. Le misure dei supporti reali e la chiusura smontabile devono ancora essere sviluppate; vedi [REV09](REV09_SOLIDI_PROTOTIPO_CNC.md).
+
 ## Procedura proposta
 
 1. Tracciare e verificare il profilo a piena scala senza tagliare materiali costosi.
