@@ -39,7 +39,7 @@
 
 
 | R18 | Fonte sedia | Tavola originale «Time Saddle» Don Coleman, quattro viste e righello 0–12 in. Copyright, solo Drive privato. | PDF, 1,19 MB | FONTE PRIVATA | [Drive: fonte sedia](https://drive.google.com/file/d/16c75RXaJoStxhi0dZESMZRg4osjyzDHn/view?usp=drivesdk) |
-| R19 | **REV05** Sedia Berninghaus | Dossier 8 tavole, DXF con soli ingombri, CSV, JSON, schede artigiani e anteprime, **nessun OBJ**. | ZIP, 0,46 MB; 17 file interni | PRELIMINARE, NON CNC | [Drive: REV05 completo](https://drive.google.com/file/d/1FQbZ7MlEyPljM4TcKHJ-YK1-ugOIyuhp/view?usp=drivesdk) |
+| R19 | **REV05** Sedia Berninghaus | Dossier 8 tavole, DXF con soli ingombri, CSV, JSON, schede artigiani e anteprime, **nessun OBJ**. | ZIP, 0,46 MB; 12 file interni | PRELIMINARE, NON CNC | [Drive: REV05 completo](https://drive.google.com/file/d/1FQbZ7MlEyPljM4TcKHJ-YK1-ugOIyuhp/view?usp=drivesdk) |
 | R20 | REV05 | Tavole sedia e lavorazioni per falegname, intagliatore e tappezziere. | PDF A3, 8 pagine | PRELIMINARE | [Drive: dossier sedia](https://drive.google.com/file/d/1DqilJCFYDdBwHyBP_pYTBJg7ltDD14SW/view?usp=drivesdk) |
 | R21 | REV05 | Registro misure da scala grafica e stato G, quote mm e pollici. | CSV | STUDIO | [Drive: misure sedia](https://drive.google.com/file/d/1Kr8LVjkro6RFwYtYzcyj_RXAaGwxQyLm/view?usp=drivesdk) |
 | R22 | REV05 | Ingombri geometrici sedia in 3 viste, esclusivamente rettangoli di confronto, **NON contorni di taglio**. | DXF | NON CNC | [Drive: DXF ingombri](https://drive.google.com/file/d/1W3_ru-66yogmDwQQbsRHhtF_zflk5jca/view?usp=drivesdk) |
@@ -61,7 +61,7 @@ Le tabelle seguenti riportano i percorsi interni verificati e i gruppi di conten
 | R12 | `01_DOSSIER_A3/`, `02_CAD_DI_CONFRONTO/`, `03_SCHEMI_ARTIGIANI/`, `04_DISTINTE/` | 4 CSV, 2 DXF, 2 PDF, 1 JSON, 1 MD, 1 TXT |
 | R14 | `01_DOSSIER/`, `02_CAD_RISCONTRO_NON_ESECUTIVO/`, `03_REGISTRI/`, `04_SCHEDE_ARTIGIANI/`, `05_ANTEPRIME/`, `06_FONTI/` | 6 PNG, 3 MD, 3 CSV, 1 TXT, 1 DXF e 1 PDF |
 | R16 | radice | 1 3MF, 1 TXT, 1 JSON; non contiene OBJ |
-| R19 | `01_DOSSIER_A3/`, `02_MISURE_E_CAD_NON_ESECUTIVI/`, `03_SCHEDE_ARTIGIANI/`, `04_FONTI_PRIVATI/`, `05_ANTEPRIME/` | 1 PDF A3, 1 DXF NON CNC, 2 CSV, 1 JSON, 5 MD, 2 PNG (complessivamente 12 file; verificare indice ZIP) |
+| R19 | `01_DOSSIER_A3/`, `02_MISURE_E_CAD_NON_ESECUTIVI/`, `03_SCHEDE_ARTIGIANI/`, `04_FONTI_PRIVATI/`, `05_ANTEPRIME/` | 1 PDF A3, 1 DXF NON CNC, 2 CSV, 1 JSON, 5 MD, 2 PNG (complessivamente 12 file interni, verificati) |
 
 ## Norme di pubblicazione
 
