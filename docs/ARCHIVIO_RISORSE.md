@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV04)
+# Archivio risorse e download (fino alla REV06)
 
-**Aggiornamento:** 2026-11-09 (REV05). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-09 (REV06). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,7 +10,7 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV04 pacchetto falegnameria (ZIP, 15 file)** | Tavole basamento, 4 schede dime, campioni e giunti da definire | [Drive: REV04 ZIP](https://drive.google.com/file/d/1OqcNQ5CwJVez-BMedzjLq8qGc4ZFZFVx/view?usp=drivesdk) |
+| **REV06 interfaccia sedia/base (ZIP, 12 file)** | Tavole di sovrapposizione, rilievi e percorso carichi da verificare | [Drive: REV04 ZIP](https://drive.google.com/file/d/1nMBo4vrMrQ60BUlX-t8cCCC2sY1N8tcW/view?usp=drivesdk) |
 | **REV04 dossier A3 (PDF, 10 tavole)** | Da mostrare al falegname per discussione e preventivo preliminare | [Drive: REV04 PDF](https://drive.google.com/file/d/1yJnLVKqvBJ3xbih43BT39fKS68hejVGY/view?usp=drivesdk) |
 | **Fonti di Coleman, Perrotta e fotografie MGM** | Riferimenti storici, quote documentate e metodi | [Fonti e provenienza](FONTI.md) |
 | **Registro delle quote** | Valori in mm/in, stato e origine | [CSV in repository](../data/registro_quote.csv) |
@@ -45,7 +45,18 @@
 | R22 | REV05 | Ingombri geometrici sedia in 3 viste, esclusivamente rettangoli di confronto, **NON contorni di taglio**. | DXF | NON CNC | [Drive: DXF ingombri](https://drive.google.com/file/d/1W3_ru-66yogmDwQQbsRHhtF_zflk5jca/view?usp=drivesdk) |
 | R23 | REV05 | Distinta di 12 lavorazioni con artigiano, materiale proposto e stato. | CSV | PRELIMINARE | [Drive: distinta sedia](https://drive.google.com/file/d/1E1taJ-hSOgyWm86Ha9r3x0qwbxn5sj9a/view?usp=drivesdk) |
 
+| R24 | **REV06** | Sovrapposizione sedia/base, carichi, catalogo 12 file. **Nessun OBJ.** | ZIP, 0,35 MB | PRELIMINARE / NON CNC | [Drive](https://drive.google.com/file/d/1nMBo4vrMrQ60BUlX-t8cCCC2sY1N8tcW/view?usp=drivesdk) |
+| R25 | REV06 | Dossier interfaccia e supporti, 10 tavole A3 | PDF | PRELIMINARE | [Drive](https://drive.google.com/file/d/1v1K1_i2EWOETDP0WCGOOXZKOGf6OsKL8/view?usp=drivesdk) |
+| R26 | REV06 | DXF di riscontro P035, P018 e P031-P034; bounding box senza fori | DXF | NON CNC | [Drive](https://drive.google.com/file/d/1Eq75DvpiTiQAbL9-ZVDgZYMiiwLBf_Wj/view?usp=drivesdk) |
+| R27 | REV06 | Misure e quote mm/in dalla geometria, più valori da verificare | CSV | STUDIO | [Drive](https://drive.google.com/file/d/1wa7bL-H6HMmfshDTkyp-R0bLkJHmWf8A/view?usp=drivesdk) |
+| R28 | REV06 | Checklist gate G0–G7 e rischi strutturali | CSV | PRELIMINARE | [Drive](https://drive.google.com/file/d/1dxjtK-TlqId1dUyfekSItFxpCoYMffO1/view?usp=drivesdk) |
+| R29 | REV06 | Bounding box, coordinate e provenienza dati | JSON | STUDIO | [Drive](https://drive.google.com/file/d/1KFg2dfjhDANMs_xKb02cxtA_Yvzd6rWS/view?usp=drivesdk) |
+| R30 | REV06 | Scheda responsabilità artigiani e rilievi necessari | MD | PRELIMINARE | [Drive](https://drive.google.com/file/d/1sSIbMQ5TN_8cGaEfqr8YKVejcnd_Qrn-/view?usp=drivesdk) |
+| R31 | REV06 | Anteprima sovrapposizione sedia/base | PNG | STUDIO | [Drive](https://drive.google.com/file/d/1FtroPkREd4HLSCUCA_-Ih6VfgffRHpUX/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
+
+Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
 
 ## Come trovare i singoli file negli ZIP
 
