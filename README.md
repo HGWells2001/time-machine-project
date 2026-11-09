@@ -4,18 +4,18 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ## Stato del progetto
 
-**Fase: documentazione e pre-progettazione (REV03, 9 novembre 2026).** Nessun disegno è ancora approvato per la fabbricazione.
+**Fase: documentazione e pre-progettazione (REV04, 9 novembre 2026).** Nessun disegno è ancora approvato per la fabbricazione.
 
 | Sottoassieme | Stato | Prossima attività |
 | --- | --- | --- |
-| Basamento in legno | Schemi REV03 disponibili; profili OBJ preliminari | Rilievo quote, stratigrafia, dime reali e giunzioni |
+| Basamento in legno | REV04: dossier 10 tavole, 4 schede dime, protocollo campioni; NON esecutivo | Rilievo quote, dime reali, giunzioni e verifica struttura |
 | Quattro piedi ornamentali | Concetto resina + supporti metallici documentato | Dimensionamento supporti/ruote e fissaggi |
 | Sedia Berninghaus | Riferimenti storici e geometria preliminare | Scelta tra restauro e falegnameria; tavole di dettaglio |
 | Grande disco posteriore | Rilevata discrepanza dimensionale tra riferimento Coleman e OBJ | Validare diametro e riprogettare geometria |
 | Corrimano e struttura | Riferimenti di metodo costruttivo | Sezioni, dime di curvatura e attacchi |
 | Console e comandi | Riferimenti di processo | Elaborati per tornitura, incisioni e componenti |
 
-[Registro di avanzamento](docs/AVANZAMENTO.md) · [Registro quote](data/registro_quote.csv) · [Revisioni](docs/REVISIONI.md) · [Metodo Coleman](docs/METODO_COLEMAN.md)
+[REV04 basamento](docs/REV04_BASAMENTO_FALEGNAMERIA.md) · [Registro di avanzamento](docs/AVANZAMENTO.md) · [Registro quote](data/registro_quote.csv) · [Revisioni](docs/REVISIONI.md) · [Metodo Coleman](docs/METODO_COLEMAN.md)
 
 ## Regole del progetto
 
@@ -38,7 +38,9 @@ I pacchetti CAD/PDF precedenti sono conservati nell'archivio personale Google Dr
 - `TimeMachine_1960_ARTIGIANI_mm_e_pollici_1a1.zip`
 - `TimeMachine_1960_COLEMAN_ARTIGIANI_REV02.zip`
 - `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`
+- `TimeMachine_1960_COLEMAN_REV04_FALEGNAMERIA.zip`
 - `TimeMachine_1960_REV03_DOSSIER_BASAMENTO_PIEDI_A3.pdf`
+- `TimeMachine_1960_REV04_DOSSIER_BASAMENTO_FALEGNAMERIA_A3.pdf`
 
 I profili DXF/PDF esistenti sono **dime di confronto**, non file esecutivi CNC con tolleranze approvate.
 
