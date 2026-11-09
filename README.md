@@ -4,12 +4,12 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ## Stato del progetto
 
-**Fase: documentazione e pre-progettazione (REV06, 9 novembre 2026).** Nessun disegno è ancora approvato per la fabbricazione.
+**Fase: documentazione e pre-progettazione (REV07, 9 novembre 2026).** Nessun disegno è ancora approvato per la fabbricazione.
 
 | Sottoassieme | Stato | Prossima attività |
 | --- | --- | --- |
 | Basamento in legno | REV04: dossier 10 tavole, 4 schede dime, protocollo campioni; NON esecutivo | Rilievo quote, dime reali, giunzioni e verifica struttura |
-| Quattro piedi ornamentali | Concetto resina + supporti metallici documentato | Dimensionamento supporti/ruote e fissaggi |
+| Quattro piedi ornamentali | REV07: studio carpenteria, due possibili schemi, 12 tavole e gate aperti | Rilievo punti ruote e dimensionamento telaio/freni |
 | Sedia Berninghaus | REV05: dossier 8 tavole, quote grafiche di riscontro, schede falegname e tappezziere; NON esecutivo | Rilievo quote reali, mock-up, giunti e portata |
 | Grande disco posteriore | Rilevata discrepanza dimensionale tra riferimento Coleman e OBJ | Validare diametro e riprogettare geometria |
 | Corrimano e struttura | Riferimenti di metodo costruttivo | Sezioni, dime di curvatura e attacchi |
@@ -17,7 +17,7 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ### Ultima revisione
 
-- **[REV06: interfaccia sedia/basamento, disegni e fonti](docs/REV06_INTERFACCIA_SEDIA_BASE.md)** · [REV05 sedia Berninghaus](docs/REV05_SEDIA_BERNINGHAUS.md), con PDF/ZIP su Drive privato. Nessun OBJ su GitHub.
+- **[REV07: carpenteria nascosta e quattro piedi](docs/REV07_TELAIO_PIEDI.md)** · [REV06 interfaccia sedia/basamento](docs/REV06_INTERFACCIA_SEDIA_BASE.md) · [REV05 sedia Berninghaus](docs/REV05_SEDIA_BERNINGHAUS.md), con PDF/ZIP su Drive privato. Nessun OBJ su GitHub.
 
 ### Indice dei materiali e delle fonti
 - **[Tutte le risorse create, PDF, DXF e ZIP su Drive](docs/ARCHIVIO_RISORSE.md)**, con revisione, contenuti degli archivi e indicazione dei file contenenti OBJ.
@@ -42,7 +42,7 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ## Archivio risorse e politica di pubblicazione
 
-Il catalogo completo delle **31 risorse collegate** in questa fase del progetto è in [ARCHIVIO_RISORSE](docs/ARCHIVIO_RISORSE.md). Contiene i link Drive per tutte le versioni fino alla **REV06**, inclusi i PDF singoli, le tavole e gli ZIP precedenti.
+Il catalogo completo delle **40 risorse collegate** in questa fase del progetto è in [ARCHIVIO_RISORSE](docs/ARCHIVIO_RISORSE.md). Contiene i link Drive per tutte le versioni fino alla **REV07**, inclusi i PDF singoli, le tavole e gli ZIP precedenti.
 
 **Non caricare file `.obj` nel repository**: GitHub conserva soltanto documentazione, tabelle, link e cronologia. Gli eventuali OBJ esistenti restano esclusivamente negli archivi Drive, chiaramente segnalati. Il file [`.gitignore`](.gitignore) esclude OBJ e ZIP da successivi commit locali.
 
