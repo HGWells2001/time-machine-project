@@ -4,7 +4,7 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ## Stato del progetto
 
-**Fase: documentazione e pre-progettazione (REV05, 9 novembre 2026).** Nessun disegno è ancora approvato per la fabbricazione.
+**Fase: documentazione e pre-progettazione (REV06, 9 novembre 2026).** Nessun disegno è ancora approvato per la fabbricazione.
 
 | Sottoassieme | Stato | Prossima attività |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ### Ultima revisione
 
-- **[REV05: sedia Berninghaus, dossier artigiani e fonti](docs/REV05_SEDIA_BERNINGHAUS.md)**, con PDF/ZIP su Drive privato. Nessun OBJ su GitHub.
+- **[REV06: interfaccia sedia/basamento, disegni e fonti](docs/REV06_INTERFACCIA_SEDIA_BASE.md)** · [REV05 sedia Berninghaus](docs/REV05_SEDIA_BERNINGHAUS.md), con PDF/ZIP su Drive privato. Nessun OBJ su GitHub.
 
 ### Indice dei materiali e delle fonti
 - **[Tutte le risorse create, PDF, DXF e ZIP su Drive](docs/ARCHIVIO_RISORSE.md)**, con revisione, contenuti degli archivi e indicazione dei file contenenti OBJ.
@@ -42,7 +42,7 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ## Archivio risorse e politica di pubblicazione
 
-Il catalogo completo delle **23 risorse collegate** in questa fase del progetto è in [ARCHIVIO_RISORSE](docs/ARCHIVIO_RISORSE.md). Contiene i link Drive per tutte le versioni fino alla **REV05**, inclusi i PDF singoli, le tavole e gli ZIP precedenti.
+Il catalogo completo delle **31 risorse collegate** in questa fase del progetto è in [ARCHIVIO_RISORSE](docs/ARCHIVIO_RISORSE.md). Contiene i link Drive per tutte le versioni fino alla **REV06**, inclusi i PDF singoli, le tavole e gli ZIP precedenti.
 
 **Non caricare file `.obj` nel repository**: GitHub conserva soltanto documentazione, tabelle, link e cronologia. Gli eventuali OBJ esistenti restano esclusivamente negli archivi Drive, chiaramente segnalati. Il file [`.gitignore`](.gitignore) esclude OBJ e ZIP da successivi commit locali.
 
