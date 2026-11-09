@@ -19,6 +19,8 @@
 
 | 2026-11-09 | REV08 piedi ornamentali in legno CNC | 8 STL superfici aperte, 11 tavole A3, DXF silhouette, 4 registri, JSON, schede artigiani e anteprime | 18 nuove risorse Drive, scheda e fonti GitHub | Non contiene cavità, solidi chiusi, giunti o G-code; nessun OBJ pubblicato |
 
+| 2026-11-09 | REV09 solidi demo piedi CNC | Ricostruzione voxel 2,5 mm, 8 STL solidi watertight, tasca pilota, sedi perni, script rigenerabile, PDF A3 9 pagine | 16 risorse nuove Drive e registrazione su GitHub | Cavità e fori di centraggio dimostrativi, serraggio non progettato, G-code assente, nessun OBJ pubblicato |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
