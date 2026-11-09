@@ -10,10 +10,9 @@ Questa pagina elenca **fonti originali esterne** e i relativi usi tecnici. Per l
 | --- | --- | --- |
 | S01 | [**Revised Time Machine Drawings 7-19** (PDF allegato al progetto, copia privata su Drive)](https://drive.google.com/file/d/1ScR74LWQir1dddYwrZUCsf1HCA5OkPdF/view?usp=drivesdk) | Tavola grafica di Chris Perrotta, revisionata da Don Coleman (2015), viste del prop a grandezza naturale. File di proprietà intellettuale degli autori: **NON redistribuire nel repo pubblico**; il link Drive richiede autorizzazione. |
 | S02 | [**Chris Perrotta: disegni in scala della macchina** (sito Coleman)](https://www.colemanzone.com/Time_Machine_Project/perrotta_1.htm) | Pagina pubblica dell'autore dei disegni; riferimento alla loro provenienza e alle viste. |
+| S15 | [**Time Saddle / BarberChair 9-26** (PDF 4 viste, copia privata)](https://drive.google.com/file/d/16c75RXaJoStxhi0dZESMZRg4osjyzDHn/view?usp=drivesdk) | Disegno della Berninghaus 1901 modificata per il film; vista superiore, laterale, frontale, posteriore e barra 0-12 in. © Don Coleman, rev. 2015. NON ripubblicare nel repository pubblico. |
 
 La tavola S01 indica testualmente il riferimento a fotografie di studio, interviste e documentazione d'archivio. Le quote non esplicitamente disponibili non vanno inventate estrapolando il disegno.
-
-| S15 | [**Time Saddle / BarberChair 9-26** (PDF 4 viste, copia privata)](https://drive.google.com/file/d/16c75RXaJoStxhi0dZESMZRg4osjyzDHn/view?usp=drivesdk) | Disegno della Berninghaus 1901 modificata per il film; vista superiore, laterale, frontale, posteriore e barra 0-12 in. © Don Coleman, rev. 2015. NON ripubblicare nel repository pubblico. |
 
 ## Don Coleman: costruzione 2025, componenti a grandezza naturale
 
