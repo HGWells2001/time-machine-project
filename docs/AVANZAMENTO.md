@@ -1,6 +1,6 @@
 # Avanzamento delle lavorazioni
 
-**Aggiornamento iniziale: 2026-11-09 | Fase: pre-progettazione.**
+**Aggiornamento REV04: 2026-11-09 | Fase: pre-progettazione.**
 
 Le parole **preparato** e **documentato** non significano **pronto per costruire**.
 
@@ -14,14 +14,16 @@ Le parole **preparato** e **documentato** non significano **pronto per costruire
 - [ ] Ricalibrare l'OBJ solo dopo aver fissato riferimenti coerenti.
 - [ ] Approvare una nuova tavola generale di ingombro.
 
-## Priorità 2: basamento + piedi, REV03
+## Priorità 2: basamento + piedi, REV04
 
+- [x] REV04: dossier A3 di 10 tavole, schede D1-D4, sequenza H0-H7, CSV di controllo e DXF NON CNC ([documentazione](REV04_BASAMENTO_FALEGNAMERIA.md)).
+- [x] REV04: richiesta preventivo a fasi per falegname e schema interfaccia supporti metallici.
 - [x] Scheda della stratigrafia Coleman: 2 × ½″ e 2 × ¾″, totale 2½″ (63,5 mm nominali).
 - [x] Profilo di riferimento dal modello OBJ e posizioni approssimate di quattro piedi.
 - [x] Distinzione tra rivestimento estetico e supporto in acciaio.
 - [ ] Verificare sagome con quote originali / modello di prova a scala ridotta.
 - [ ] Definire essenza e tipo di compensato, collanti, orientamento vene, spessori effettivi disponibili in Italia.
-- [ ] Disegnare quattro dime individuali, profili di fresatura e dettagli dei giunti.
+- [ ] Rilevare e approvare quattro dime individuali realmente quotate, profili delle frese e dettagli dei giunti; le schede della REV04 non sono sagome operative.
 - [ ] Progettare giunzioni e struttura portante metallica indipendente dalle parti ornamentali.
 - [ ] Verificare capacità di carico, stabilità al ribaltamento, rotelle, punti di sollevamento, interfaccia alla sedia.
 - [ ] Far approvare gli esecutivi a falegname e tecnico strutturale prima del taglio CNC.
