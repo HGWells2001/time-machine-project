@@ -1,6 +1,6 @@
 # Avanzamento delle lavorazioni
 
-**Aggiornamento REV06: 2026-11-09 | Fase: pre-progettazione.**
+**Aggiornamento REV07: 2026-11-09 | Fase: pre-progettazione.**
 
 Le parole **preparato** e **documentato** non significano **pronto per costruire**.
 
@@ -50,6 +50,16 @@ Le parole **preparato** e **documentato** non significano **pronto per costruire
 - [ ] Disegnare e verificare con tecnico un telaio interno, piastre, bulloni, ruote e stabilità.
 - [ ] Fare mock-up 1:1, controllo interferenze con i corrimano e la console.
 
+## Priorità 3-ter: telaio portante e quattro piedi, REV07
+
+- [x] Documento REV07 con 12 tavole A3, DXF bbox NON CNC, registro quote e schede artigiani: [vedi REV07](REV07_TELAIO_PIEDI.md).
+- [x] Metodo Coleman: quattro supporti d'acciaio con ruote, ricavati per waterjet/saldatura; gusci resina non portanti con stampi silicone.
+- [x] Verificata la diversa distanza trasversale tra box piedi anteriori e posteriori, senza assumerli come contatti caster.
+- [x] Valutati concettualmente telaio continuo o supporti collegati; nessuno selezionato.
+- [ ] Misurare i veri punti di contatto al pavimento, massa e baricentro, ruote/freni e carico occupante.
+- [ ] Definire piastre, profilati, saldature, fissaggi e loro verifica strutturale da tecnico competente.
+- [ ] Confermare scala MGM, creare prototipo e verificare ingombro dei gusci con accesso alle ruote.
+
 ## Priorità 4: grande disco posteriore
 
 - [x] Segnalata differenza tra riferimento Coleman 60″ e OBJ precedente.
@@ -72,4 +82,4 @@ Una lavorazione può essere segnata **PRONTA PER PREVENTIVO VINCOLANTE / FABBRIC
 
 ## Archivio esterno
 
-La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
+La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
