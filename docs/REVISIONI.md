@@ -11,6 +11,8 @@
 
 | 2026-11-09 | GitHub indice fonti e risorse | Pubblicati `docs/FONTI.md`, `docs/ARCHIVIO_RISORSE.md` e `data/catalogo_risorse.csv` con 17 link Drive e fonti esterne | Cataloghi su branch main; aggiunto `.gitignore` per OBJ e ZIP | Link Drive privati; nessun OBJ pubblicato su GitHub |
 
+| 2026-11-09 | REV05 sedia Berninghaus | Quattro viste originali, stime grafiche 670 × 750 × 900 mm, dossier 8 pagine, DXF ingombri NON CNC e distinta mestieri | ZIP e PDF su Drive; scheda e fonti su GitHub | Quote da rilievo, portata e giunti da validare; nessun OBJ pubblicato |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
