@@ -1,0 +1,6 @@
+# Protezione della geometria privata: gli OBJ non vanno nel repository pubblico
+*.obj
+*.OBJ
+# Gli archivi geometrici restano su Google Drive e vengono solo linkati
+*.zip
+*.ZIP
