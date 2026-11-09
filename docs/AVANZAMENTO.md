@@ -1,6 +1,6 @@
 # Avanzamento delle lavorazioni
 
-**Aggiornamento REV05: 2026-11-09 | Fase: pre-progettazione.**
+**Aggiornamento REV06: 2026-11-09 | Fase: pre-progettazione.**
 
 Le parole **preparato** e **documentato** non significano **pronto per costruire**.
 
@@ -40,6 +40,16 @@ Le parole **preparato** e **documentato** non significano **pronto per costruire
 - [ ] Definire intagli, imbottitura, tappezzeria e finiture.
 - [ ] Testare portata e stabilità prima dell'uso.
 
+## Priorità 3-bis: interfaccia sedia / basamento, REV06
+
+- [x] REV06: dossier 10 tavole A3 e DXF con soli box **NON CNC** ([scheda](REV06_INTERFACCIA_SEDIA_BASE.md)).
+- [x] Fonte Perrotta originale S16: piedistallo Berninghaus rimosso; impronte per quattro gambe e due fori di ritenuta non quotati.
+- [x] Collocazione di studio ricavata dal catalogo precedente: centro cuscino P018 spostato +153,84 mm in X rispetto a P035.
+- [x] Registro G0-G7: strutture, fissaggi e portata non ancora approvati.
+- [ ] Rilevare attacchi reali sotto la sedia e definire perimetro resistente.
+- [ ] Disegnare e verificare con tecnico un telaio interno, piastre, bulloni, ruote e stabilità.
+- [ ] Fare mock-up 1:1, controllo interferenze con i corrimano e la console.
+
 ## Priorità 4: grande disco posteriore
 
 - [x] Segnalata differenza tra riferimento Coleman 60″ e OBJ precedente.
@@ -62,4 +72,4 @@ Una lavorazione può essere segnata **PRONTA PER PREVENTIVO VINCOLANTE / FABBRIC
 
 ## Archivio esterno
 
-La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
+La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
