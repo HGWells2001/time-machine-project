@@ -1,6 +1,6 @@
 # Archivio risorse e download (fino alla REV04)
 
-**Aggiornamento:** 2026-11-09. Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-09 (REV05). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -37,6 +37,14 @@
 | R16 | Calibrazione iniziale 1:1 | Pacchetto compatto con 3MF, README e misure JSON. **Non contiene OBJ**. | ZIP, 3,04 MB; 3 file interni | STUDIO | [Drive: pacchetto compatto](https://drive.google.com/file/d/10R0FXgY8QmFbqOd_37Ty1y8N54PA0Ail/view?usp=drivesdk) |
 | R17 | Calibrazione iniziale 1:1 | Versione 3MF singola della macchina (geometria di studio). | 3MF, 3,10 MB | STUDIO | [Drive: modello 3MF](https://drive.google.com/file/d/19ItEwXL61CsgxTdyXnzRG-7LvpyX4kqP/view?usp=drivesdk) |
 
+
+| R18 | Fonte sedia | Tavola originale «Time Saddle» Don Coleman, quattro viste e righello 0–12 in. Copyright, solo Drive privato. | PDF, 1,19 MB | FONTE PRIVATA | [Drive: fonte sedia](https://drive.google.com/file/d/16c75RXaJoStxhi0dZESMZRg4osjyzDHn/view?usp=drivesdk) |
+| R19 | **REV05** Sedia Berninghaus | Dossier 8 tavole, DXF con soli ingombri, CSV, JSON, schede artigiani e anteprime, **nessun OBJ**. | ZIP, 0,46 MB; 17 file interni | PRELIMINARE, NON CNC | [Drive: REV05 completo](https://drive.google.com/file/d/1FQbZ7MlEyPljM4TcKHJ-YK1-ugOIyuhp/view?usp=drivesdk) |
+| R20 | REV05 | Tavole sedia e lavorazioni per falegname, intagliatore e tappezziere. | PDF A3, 8 pagine | PRELIMINARE | [Drive: dossier sedia](https://drive.google.com/file/d/1DqilJCFYDdBwHyBP_pYTBJg7ltDD14SW/view?usp=drivesdk) |
+| R21 | REV05 | Registro misure da scala grafica e stato G, quote mm e pollici. | CSV | STUDIO | [Drive: misure sedia](https://drive.google.com/file/d/1Kr8LVjkro6RFwYtYzcyj_RXAaGwxQyLm/view?usp=drivesdk) |
+| R22 | REV05 | Ingombri geometrici sedia in 3 viste, esclusivamente rettangoli di confronto, **NON contorni di taglio**. | DXF | NON CNC | [Drive: DXF ingombri](https://drive.google.com/file/d/1W3_ru-66yogmDwQQbsRHhtF_zflk5jca/view?usp=drivesdk) |
+| R23 | REV05 | Distinta di 12 lavorazioni con artigiano, materiale proposto e stato. | CSV | PRELIMINARE | [Drive: distinta sedia](https://drive.google.com/file/d/1E1taJ-hSOgyWm86Ha9r3x0qwbxn5sj9a/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 ## Come trovare i singoli file negli ZIP
@@ -53,6 +61,7 @@ Le tabelle seguenti riportano i percorsi interni verificati e i gruppi di conten
 | R12 | `01_DOSSIER_A3/`, `02_CAD_DI_CONFRONTO/`, `03_SCHEMI_ARTIGIANI/`, `04_DISTINTE/` | 4 CSV, 2 DXF, 2 PDF, 1 JSON, 1 MD, 1 TXT |
 | R14 | `01_DOSSIER/`, `02_CAD_RISCONTRO_NON_ESECUTIVO/`, `03_REGISTRI/`, `04_SCHEDE_ARTIGIANI/`, `05_ANTEPRIME/`, `06_FONTI/` | 6 PNG, 3 MD, 3 CSV, 1 TXT, 1 DXF e 1 PDF |
 | R16 | radice | 1 3MF, 1 TXT, 1 JSON; non contiene OBJ |
+| R19 | `01_DOSSIER_A3/`, `02_MISURE_E_CAD_NON_ESECUTIVI/`, `03_SCHEDE_ARTIGIANI/`, `04_FONTI_PRIVATI/`, `05_ANTEPRIME/` | 1 PDF A3, 1 DXF NON CNC, 2 CSV, 1 JSON, 5 MD, 2 PNG (complessivamente 12 file; verificare indice ZIP) |
 
 ## Norme di pubblicazione
 
