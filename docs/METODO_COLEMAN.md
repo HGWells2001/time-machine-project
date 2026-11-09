@@ -26,6 +26,10 @@ Scopo: usare la documentazione del costruttore come guida concreta alla costruzi
 
 La pagina Coleman del 2025 conferma due fogli da 1/2 in, due da 3/4 in e quattro dime MDF; l'ordine verticale L1-L4 ripreso dalla REV03 non e specificato nella pagina 2025 ed e da verificare sulle altre fonti. I profili dei bordi non sono stati dedotti come file CNC. Vedi [dossier REV04](REV04_BASAMENTO_FALEGNAMERIA.md).
 
+## Variante REV08: piedi decorativi in legno CNC
+
+A differenza del processo per i piedi di Coleman (gusci in resina colata mediante stampi), la REV08 propone **8 semigusci in legno CNC**: due metà per ciascuno dei 4 piedi. È una scelta del progetto, **non il metodo eseguito da Coleman**. Si mantiene il principio di supporti interni in acciaio con ruote che sostengono i carichi. Gli STL derivati dall'OBJ precedente sono superfici APERTE e troppo semplificate per la produzione. Vedi [REV08](REV08_PIEDI_LEGNO_CNC.md).
+
 ## Procedura proposta
 
 1. Tracciare e verificare il profilo a piena scala senza tagliare materiali costosi.
