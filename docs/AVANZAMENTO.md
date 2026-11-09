@@ -1,6 +1,6 @@
 # Avanzamento delle lavorazioni
 
-**Aggiornamento REV08: 2026-11-09 | Fase: pre-progettazione.**
+**Aggiornamento REV09: 2026-11-09 | Fase: pre-progettazione.**
 
 Le parole **preparato** e **documentato** non significano **pronto per costruire**.
 
@@ -71,6 +71,17 @@ Le parole **preparato** e **documentato** non significano **pronto per costruire
 - [ ] Preparare veri solidi CAD e simulazioni CAM su CNC a 3 assi, inclusi setup e sottosquadri.
 - [ ] Produrre una coppia campione e verificarne l'incastro sul supporto portante prima degli altri tre piedi.
 
+## Priorità 3-quinquies: REV09 solidi e cavita' pilota
+
+- [x] 8 prototipi STL **chiusi e un componente ciascuno**, con voxelizzazione a 2,5 mm e due meta per piede.
+- [x] Vano dimostrativo aperto sul giunto Y e due sedi cieche di centraggio per ciascuna meta, senza interpretarle come attacchi reali.
+- [x] Generatore locale Python, 4 STL di input, parametri JSON, verifica geometrica CSV; [scheda REV09](REV09_SOLIDI_PROTOTIPO_CNC.md).
+- [x] Dossier A3 di nove tavole e archivio ZIP con 26 file, senza OBJ.
+- [ ] Rilevare geometria reale supporti acciaio e ruote; sostituire vano dimostrativo con scavo effettivo.
+- [ ] Progettare ritenuta smontabile a viti/staffe e accessi, perché i due perni NON serrano i gusci.
+- [ ] Ripulire la superfice esterna dalla voxelizzazione e aggiungere gli intagli fedeli al prop.
+- [ ] Validare CAM fronte/retro, staffaggi e materiale con falegname prima della produzione.
+
 ## Priorità 4: grande disco posteriore
 
 - [x] Segnalata differenza tra riferimento Coleman 60″ e OBJ precedente.
@@ -93,4 +104,4 @@ Una lavorazione può essere segnata **PRONTA PER PREVENTIVO VINCOLANTE / FABBRIC
 
 ## Archivio esterno
 
-La REV08 piedi in legno CNC è su Drive come `TimeMachine_1960_REV08_PIEDI_LEGNO_CNC.zip`. La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
+La REV09 solidi di prova è su Drive come `TimeMachine_1960_REV09_SOLIDI_PROTOTIPO_CNC.zip`. La REV08 piedi in legno CNC è su Drive come `TimeMachine_1960_REV08_PIEDI_LEGNO_CNC.zip`. La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
