@@ -13,6 +13,8 @@
 
 | 2026-11-09 | REV05 sedia Berninghaus | Quattro viste originali, stime grafiche 670 × 750 × 900 mm, dossier 8 pagine, DXF ingombri NON CNC e distinta mestieri | ZIP e PDF su Drive; scheda e fonti su GitHub | Quote da rilievo, portata e giunti da validare; nessun OBJ pubblicato |
 
+| 2026-11-09 | REV06 interfaccia sedia/base | Dossier 10 tavole, sovrapposizione bbox P035/P018, catena quote Z, percorso carichi, checklist, DXF NON CNC | 8 risorse su Drive e registri su GitHub | Progettazione strutturale / scala generale / fori reali ancora BLOCCATI; nessun OBJ pubblicato |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
