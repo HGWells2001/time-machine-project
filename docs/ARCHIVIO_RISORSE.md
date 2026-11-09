@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV06)
+# Archivio risorse e download (fino alla REV07)
 
-**Aggiornamento:** 2026-11-09 (REV06). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-09 (REV07). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,7 +10,7 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV06 interfaccia sedia/base (ZIP, 12 file)** | Tavole di sovrapposizione, rilievi e percorso carichi da verificare | [Drive: REV06 ZIP](https://drive.google.com/file/d/1nMBo4vrMrQ60BUlX-t8cCCC2sY1N8tcW/view?usp=drivesdk) |
+| **REV07 telaio e piedi (ZIP, 16 file)** | 12 tavole sulla carpenteria, ruote, gusci resina e stabilità | [Drive: REV07 ZIP](https://drive.google.com/file/d/1RPaJcKd7_iMTSe7SbWVm6zwl31C4Aom-/view?usp=drivesdk) |
 | **REV04 dossier A3 (PDF, 10 tavole)** | Da mostrare al falegname per discussione e preventivo preliminare | [Drive: REV04 PDF](https://drive.google.com/file/d/1yJnLVKqvBJ3xbih43BT39fKS68hejVGY/view?usp=drivesdk) |
 | **Fonti di Coleman, Perrotta e fotografie MGM** | Riferimenti storici, quote documentate e metodi | [Fonti e provenienza](FONTI.md) |
 | **Registro delle quote** | Valori in mm/in, stato e origine | [CSV in repository](../data/registro_quote.csv) |
@@ -54,9 +54,21 @@
 | R30 | REV06 | Scheda responsabilità artigiani e rilievi necessari | MD | PRELIMINARE | [Drive](https://drive.google.com/file/d/1sSIbMQ5TN_8cGaEfqr8YKVejcnd_Qrn-/view?usp=drivesdk) |
 | R31 | REV06 | Anteprima sovrapposizione sedia/base | PNG | STUDIO | [Drive](https://drive.google.com/file/d/1FtroPkREd4HLSCUCA_-Ih6VfgffRHpUX/view?usp=drivesdk) |
 
+| R32 | REV07 | Telaio portante nascosto, quattro piedi Coleman e 16 file, senza OBJ | ZIP, 0,98 MB | PRELIMINARE / NON CNC | [Drive](https://drive.google.com/file/d/1RPaJcKd7_iMTSe7SbWVm6zwl31C4Aom-/view?usp=drivesdk) |
+| R33 | REV07 | Dossier 12 tavole A3 di carpenteria e verifica carichi | PDF | PRELIMINARE | [Drive](https://drive.google.com/file/d/1pzmcDCsO_04I6dw2YKelh6DvWYPBwGb9/view?usp=drivesdk) |
+| R34 | REV07 | DXF con soli ingombri P031-P035 e P018; non ci sono fori | DXF | NON CNC | [Drive](https://drive.google.com/file/d/1r1z7ZeNiE2uBdL2i6xoh-qVljw8Pk319/view?usp=drivesdk) |
+| R35 | REV07 | Coordinate e dimensioni box da geometria, non appoggi | CSV | STUDIO | [Drive](https://drive.google.com/file/d/1-fyult2jymOkcEYjBYSbCBBYkCCyjeRw/view?usp=drivesdk) |
+| R36 | REV07 | Dieci requisiti strutturali per tecnico e carpentiere | CSV | PRELIMINARE | [Drive](https://drive.google.com/file/d/1gGZq_27fsop22BVwRfkm-62Jr6pxEwRZ/view?usp=drivesdk) |
+| R37 | REV07 | Distinta per preventivi di 9 elementi non dimensionati | CSV | PRELIMINARE | [Drive](https://drive.google.com/file/d/1mv0aUKtCZaTu-pWV0OaXWor017Heht8B/view?usp=drivesdk) |
+| R38 | REV07 | Gate G0-G7 di verifica prima della produzione | CSV | PRELIMINARE | [Drive](https://drive.google.com/file/d/1Tl-q29lLJx1Y419b-_xodwitU85Mkth_/view?usp=drivesdk) |
+| R39 | REV07 | Dati geometrici da bbox e provenienza | JSON | STUDIO | [Drive](https://drive.google.com/file/d/15DrEoDog1jlsyYONe3qUKsqrPFwrKGNg/view?usp=drivesdk) |
+| R40 | REV07 | Panoramica delle 12 tavole A3 | PNG | STUDIO | [Drive](https://drive.google.com/file/d/1p2dkfbGA_vNPqmkQG3aupcJ4PNHYwo4I/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
+
+Il pacchetto REV07 R32 contiene 16 file: PDF A3 12 tavole, DXF di soli ingombri, 4 CSV, JSON coordinate, scheda artigiani, file fonti, README, manifesto SHA256 e 4 PNG di anteprima.
 
 ## Come trovare i singoli file negli ZIP
 
