@@ -6,7 +6,7 @@
 
 | Risorsa | Link | Contenuto |
 | --- | --- | --- |
-| **REV05 completo (ZIP)** | [Apri su Drive](https://drive.google.com/file/d/1FQbZ7MlEyPljM4TcKHJ-YK1-ugOIyuhp/view?usp=drivesdk) | 17 file: dossier A3, misure CSV/JSON, DXF di solo ingombro, richieste artigiani, checklist, estratti privati di confronto |
+| **REV05 completo (ZIP)** | [Apri su Drive](https://drive.google.com/file/d/1FQbZ7MlEyPljM4TcKHJ-YK1-ugOIyuhp/view?usp=drivesdk) | 12 file: dossier A3, misure CSV/JSON, DXF di solo ingombro, richieste artigiani, checklist, estratti privati di confronto |
 | **Dossier sedia (PDF A3)** | [Apri su Drive](https://drive.google.com/file/d/1DqilJCFYDdBwHyBP_pYTBJg7ltDD14SW/view?usp=drivesdk) | 8 tavole di lavoro |
 | **Tavola originale «Time Saddle»** | [Copia privata su Drive](https://drive.google.com/file/d/16c75RXaJoStxhi0dZESMZRg4osjyzDHn/view?usp=drivesdk) | Le 4 viste, scala grafica in pollici; © Don Coleman 2010, rev. 2015. Non ripubblicare su GitHub |
 | **Registro misure** | [CSV](https://drive.google.com/file/d/1Kr8LVjkro6RFwYtYzcyj_RXAaGwxQyLm/view?usp=drivesdk) | Stime in mm e pollici con fonte |
