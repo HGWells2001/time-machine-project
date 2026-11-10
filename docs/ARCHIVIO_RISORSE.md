@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV11)
+# Archivio risorse e download (fino alla REV11A)
 
-**Aggiornamento:** 2026-11-10 (REV11). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-10 (REV11A). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,10 +10,10 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV11: kit rilievo officina, 15 file** | 9 tavole A3, 4 schede A4, CSV, JSON, validatore senza OBJ | [Drive: REV11 ZIP](https://drive.google.com/file/d/1xyKjEVHAxjkSzhAjb14zGDf7NWhSgvUj/view?usp=drivesdk) |
-| **REV11: schede stampabili** | Misure reali della carpenteria e ruote, senza numeri inventati | [Drive: 4 schede A4](https://drive.google.com/file/d/1nj9JJQdUBarIUgBc2KI0FMv3LDhhOld0/view?usp=drivesdk) |
-| **REV11: relazione tecnica** | Dati, fonti, stato dei gate, verifiche e link individuali | [Scheda REV11](REV11_RILIEVO_OFFICINA_CNC.md) |
-| **Fonti Perrotta/Coleman** | Riferimento storico e metodi costruttivi | [Fonti](FONTI.md) |
+| **REV11A: estrazione quote piedi da Perrotta** | 7 file: A3, CSV e ritagli della tavola originale solo su Drive privato | [Drive: REV11A ZIP](https://drive.google.com/file/d/1AQTMW7a6b367IpzdqpLX0dSmWrYknvum/view?usp=drivesdk) |
+| **REV11A: confronto Perrotta / OBJ** | Stime esterne G 250 × 135 × 150 mm ±15, non staffe né ruote | [Drive: PDF A3 2 pagine](https://drive.google.com/file/d/1Bn1ApPF0dtwOwzb7fHHiRyCmYMwcdsZQ/view?usp=drivesdk) |
+| **REV11: modulo rilievi officina** | Le 48 quote delle staffe non sono nel blueprint e restano da misurare | [Drive: schede A4](https://drive.google.com/file/d/1nj9JJQdUBarIUgBc2KI0FMv3LDhhOld0/view?usp=drivesdk) |
+| **Nota e metodologia** | Fonti, pixel/scala, limiti, PDF e CSV | [REV11A](REV11A_QUOTE_PERROTTA.md) |
 
 ## Registro completo delle risorse create o conservate
 
@@ -124,6 +124,11 @@
 | R95 | REV11 | Programma controllo integrità 48 quote, NON CAM | PY | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/1Nxe8UEAAzCRtFr3d-wyZGLXiFLtV7Yvs/view?usp=drivesdk) |
 | R96 | REV11 | Panoramica delle 9 tavole A3 | PNG | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/1wqseriNKI6Vy-b1sqUanfiHO1hUZ5EE0/view?usp=drivesdk) |
 
+| R97 | REV11A | ZIP 7 file, relazione privata da tavola Perrotta | ZIP | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1AQTMW7a6b367IpzdqpLX0dSmWrYknvum/view?usp=drivesdk) |
+| R98 | REV11A | Dossier A3 2 pagine, disegno originale citato e quote grafiche | PDF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1Bn1ApPF0dtwOwzb7fHHiRyCmYMwcdsZQ/view?usp=drivesdk) |
+| R99 | REV11A | CSV 6 campioni e conversioni righello pixel→mm | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1KxX0DkX9v5_UF--D6e-lPhBYUFLS1tWc/view?usp=drivesdk) |
+| R100 | REV11A | CSV 3 quote G-Perrotta più campi V carpenteria | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1MKFPEAuyhNU6k_UWKkgRpqA-_YuceesD/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
@@ -136,7 +141,7 @@ Il pacchetto REV10 (R75) include 34 membri. Dettaglio: 4 STL G sorgente, script 
 
 Il pacchetto REV11 (R87) contiene 15 file: due PDF (A3 9 pagine e A4 4 pagine), tre template di rilievo/controllo CSV più gates e fonte CSV, JSON vuoto, script di validazione e report di test BLOCKED, README, due anteprime e manifest SHA256. Nessun OBJ, STL, STEP o G-code; i file grafici REV10 restano nel loro archivio precedente.
 
-## Come trovare i singoli file negli ZIP
+Il pacchetto REV11A (R97) include 7 file: dossier A3 di 2 pagine, due CSV, tre piccoli estratti grafici del blueprint con attribuzione e README. Gli estratti della fonte protetta restano **esclusivamente nel Drive privato**. Nessun OBJ o esecutivo CAD è stato aggiunto.\n\n## Come trovare i singoli file negli ZIP
 
 Le tabelle seguenti riportano i percorsi interni verificati e i gruppi di contenuti; per ciascun elemento il **collegamento è quello all'archivio Drive**. Non esistono URL pubblici separati per i membri non estratti.
 
