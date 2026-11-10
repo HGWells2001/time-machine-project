@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV10)
+# Archivio risorse e download (fino alla REV11)
 
-**Aggiornamento:** 2026-11-10 (REV10). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-10 (REV11). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,10 +10,10 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV10: kit rilievi e STEP/STL dimostrativi** | 34 file, generatore parametrico con blocco delle misure mancanti, zero OBJ | [Drive: REV10 ZIP](https://drive.google.com/file/d/1tkFjJFvO99LrJFzBHJVG8PzBXXq-d0AN/view?usp=drivesdk) |
-| **REV10: dossier A3, otto tavole** | Schema di rilievo per carpentiere/falegname, non esecutivo | [Drive: REV10 PDF](https://drive.google.com/file/d/1h3jFYVaEiy5kqqMchuvNJc-V4MuLn2Fy/view?usp=drivesdk) |
-| **REV10: scheda e collegamenti ai singoli file** | Fonti, geometrie note, test, limiti e lavori aperti | [Scheda REV10](REV10_RILIEVO_SUPPORTI_PARAMETRICO.md) |
-| **Fonti Coleman/Perrotta** | Ricerca storica e processo di costruzione documentato | [Fonti](FONTI.md) |
+| **REV11: kit rilievo officina, 15 file** | 9 tavole A3, 4 schede A4, CSV, JSON, validatore senza OBJ | [Drive: REV11 ZIP](https://drive.google.com/file/d/1xyKjEVHAxjkSzhAjb14zGDf7NWhSgvUj/view?usp=drivesdk) |
+| **REV11: schede stampabili** | Misure reali della carpenteria e ruote, senza numeri inventati | [Drive: 4 schede A4](https://drive.google.com/file/d/1nj9JJQdUBarIUgBc2KI0FMv3LDhhOld0/view?usp=drivesdk) |
+| **REV11: relazione tecnica** | Dati, fonti, stato dei gate, verifiche e link individuali | [Scheda REV11](REV11_RILIEVO_OFFICINA_CNC.md) |
+| **Fonti Perrotta/Coleman** | Riferimento storico e metodi costruttivi | [Fonti](FONTI.md) |
 
 ## Registro completo delle risorse create o conservate
 
@@ -113,6 +113,17 @@
 | R85 | REV10 | STL guscio P031-A demo NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1CvjMWrOh1TCQbWZi3CVnzEC8rE-M8q4g/view?usp=drivesdk) |
 | R86 | REV10 | STL guscio P031-B demo NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1dnixlbdz_fQcKz2DuokPLy83w9VBUpd-/view?usp=drivesdk) |
 
+| R87 | REV11 | Pacchetto 15 file REV11 senza OBJ, STL, STEP, G-code | ZIP | PRELIMINARE | [Drive](https://drive.google.com/file/d/1xyKjEVHAxjkSzhAjb14zGDf7NWhSgvUj/view?usp=drivesdk) |
+| R88 | REV11 | Dossier tecnico A3, 9 tavole | PDF | PRELIMINARE | [Drive](https://drive.google.com/file/d/1Z0zeEV6RiKhAImjzTz_fn0zTX4t3VRpF/view?usp=drivesdk) |
+| R89 | REV11 | Quattro moduli A4 stampabili P031-P034 | PDF | PRELIMINARE | [Drive](https://drive.google.com/file/d/1nj9JJQdUBarIUgBc2KI0FMv3LDhhOld0/view?usp=drivesdk) |
+| R90 | REV11 | CSV vuoto 48 quote acciaio e ruota | CSV | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/1h8EoIuHukapx_SVAJBAeDAqbx8856ODe/view?usp=drivesdk) |
+| R91 | REV11 | CSV interferenze, 36 scenari | CSV | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/1YFKZ9IrWOnoop3vFwWCUJPHVivxxjKZw/view?usp=drivesdk) |
+| R92 | REV11 | CSV montaggio e manutenzione, 40 attività | CSV | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/14hkj8NGW0y4tZafPCYDSGiBWZZm0-qnm/view?usp=drivesdk) |
+| R93 | REV11 | CSV gate G00-G10 tutti APERTI | CSV | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/1H33Fnmpse-pxeDhSIEIx-NB28XM2wBRC/view?usp=drivesdk) |
+| R94 | REV11 | JSON modello reale con quote null | JSON | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/1r3FDXVxznVefqP4gPVohwmOCxS07faZK/view?usp=drivesdk) |
+| R95 | REV11 | Programma controllo integrità 48 quote, NON CAM | PY | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/1Nxe8UEAAzCRtFr3d-wyZGLXiFLtV7Yvs/view?usp=drivesdk) |
+| R96 | REV11 | Panoramica delle 9 tavole A3 | PNG | DA RILEVARE / STUDIO | [Drive](https://drive.google.com/file/d/1wqseriNKI6Vy-b1sqUanfiHO1hUZ5EE0/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
@@ -122,6 +133,8 @@ Il pacchetto REV07 R32 contiene 16 file: PDF A3 12 tavole, DXF di soli ingombri,
 Il pacchetto REV08 (R41) comprende 23 file: 8 STL esterni APERTI, 1 PDF A3 di 11 pagine, 1 DXF di silhouette, registri, anteprime e schede. Questi STL non sono solidi pronti per CAM. Nessun OBJ è contenuto o pubblicato.\n\nIl pacchetto REV09 (R59) ha 26 file e contiene 8 STL chiusi di prova e 4 STL sorgente non manifold, senza alcun OBJ. La tasca e le sedi dei perni sono DIMOSTRATIVE; nessuna filettatura né foro di serraggio è modellato.
 
 Il pacchetto REV10 (R75) include 34 membri. Dettaglio: 4 STL G sorgente, script e 2 JSON, 8 STL DEMO chiusi, 8 STEP dimostrativi di acciaio/scavo, CSV e immagini, 8 tavole A3, istruzioni e manifest SHA256. Sono **tutti** disponibili tramite il link allo ZIP; i file più utili sono anche collegati singolarmente. L'input reale vuoto blocca intenzionalmente la generazione. Nessun OBJ e nessun G-code.
+
+Il pacchetto REV11 (R87) contiene 15 file: due PDF (A3 9 pagine e A4 4 pagine), tre template di rilievo/controllo CSV più gates e fonte CSV, JSON vuoto, script di validazione e report di test BLOCKED, README, due anteprime e manifest SHA256. Nessun OBJ, STL, STEP o G-code; i file grafici REV10 restano nel loro archivio precedente.
 
 ## Come trovare i singoli file negli ZIP
 
