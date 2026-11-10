@@ -8,3 +8,6 @@ Q-006,Macchina completa,Ingombro verticale OBJ,2635,103.7402,G,OBJ 1:1 prelimina
 Q-007,Disco posteriore,Diametro riportato nella replica Coleman storica,1524,60,D,Documentazione Coleman precedente,da riconciliare,"Verificare la variante e la corrispondenza con macchina cinematografica"
 Q-008,Disco posteriore,Diametro approx OBJ,1953,76.8898,G,OBJ 1:1 preliminare,in conflitto con Q-007,"Non costruire finche' non chiarito"
 Q-009,Corrimano,Diametro tubo di riferimento,38.1,1.5,D,Metodo Coleman,da verificare su progetto specifico,"Verificare se diametro esterno nominale e materiale"
+Q-010,Piedi ornamentali,Lunghezza esterna X dal blueprint,250,9.8425,G-Perrotta,"Perrotta-Coleman 2015, vista laterale e righello 0-12 pollici","stima grafica ±15 mm, NON CNC",Letture 166 e 174 px; differenza con OBJ circa +21%; non misura della staffa
+Q-011,Piedi ornamentali,Larghezza esterna Y dal blueprint,135,5.3150,G-Perrotta,"Perrotta-Coleman 2015, vista frontale e righello 0-12 pollici","stima grafica ±15 mm, NON CNC","Letture 90 e 94 px; larghezza dei gusci esterni, non sezione acciaio"
+Q-012,Piedi ornamentali,Altezza esterna Z sotto basamento dal blueprint,150,5.9055,G-Perrotta,"Perrotta-Coleman 2015, viste frontale e laterale","stima grafica ±15 mm, NON CNC",Letture circa 100 e 101 px; non altezza/stelo ruota
