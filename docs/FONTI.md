@@ -57,6 +57,10 @@ La tavola S01 indica testualmente il riferimento a fotografie di studio, intervi
 
 La scelta di fresare in legno i semigusci dei piedi nella REV08 è una variante moderna del nostro progetto, distinta dagli stampi in silicone e dalle resine pubblicate da Coleman.
 
+## Lettura metrica Perrotta (10 novembre 2026)
+
+La tavola primaria S01 contiene un righello **0–12 inches**: sono state lette le sagome ornamentali dei piedi in vista laterale e frontale, con stima **250 × 135 × 150 mm ±15**, **G-Perrotta**, non quote stampate dall'autore. Le differenze rispetto alle misure del vecchio OBJ sono documentate in [REV11A](REV11A_QUOTE_PERROTTA.md) e nel [dossier privato A3](https://drive.google.com/file/d/1Bn1ApPF0dtwOwzb7fHHiRyCmYMwcdsZQ/view?usp=drivesdk). Il blueprint **non dà geometrie o dimensioni interne per le quattro staffe metalliche o le ruote**. Non desumere tali valori dal profilo esterno.
+
 ## Cronologia dei controlli
 
 - 2026-11-10 REV11: ricontrollate le pagine ufficiali di Don Coleman [The Feet](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%205.htm) e [The Base](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%201.htm). La fonte descrive supporti con ruote e gusci, ma NON le loro dimensioni; i nuovi moduli, test e controlli sono proposte REV11. Vedi [documentazione](REV11_RILIEVO_OFFICINA_CNC.md).
