@@ -38,6 +38,10 @@ La REV09 crea 8 solidi chiusi di prova con una tasca pilota e sedi per perni di 
 
 Coleman documenta i gusci di piedi in due meta **adattati a mano a supporti metallici gia realizzati**. La pagina non da' le quote necessarie per tagliare lo scavo del nostro piede. La REV10 mette questo vincolo prima dei file CNC: scheda misura 4 supporti/ruote, script parametrico con input vuoto che si blocca e demo STEP/STL creata con **valori inventati e dichiarati tali**. Il legno CNC e il generatore sono scelte di questa replica, non del metodo di Coleman. [Dettagli REV10](REV10_RILIEVO_SUPPORTI_PARAMETRICO.md).
 
+## REV11: rendere verificabile il fitting delle due metà
+
+La REV11 adotta un kit di rilievo diretto dei quattro supporti metallici con ruote per sostituire le quote ancora vuote. Coleman mostra il fitting dei gusci ornamentali ai supporti in acciaio, non fornisce un disegno quotato delle staffe. La REV11 aggiunge per nostra iniziativa 4 schede fisiche, controllo delle 48 quote e matrice per ruota/brake, senza presentare dati fittizi come originali. [Documentazione REV11](REV11_RILIEVO_OFFICINA_CNC.md).
+
 ## Procedura proposta
 
 1. Tracciare e verificare il profilo a piena scala senza tagliare materiali costosi.
