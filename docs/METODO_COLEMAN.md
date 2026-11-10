@@ -34,6 +34,10 @@ A differenza del processo per i piedi di Coleman (gusci in resina colata mediant
 
 La REV09 crea 8 solidi chiusi di prova con una tasca pilota e sedi per perni di centraggio, **non** fori strutturali o serraggi. La voxelizzazione a 2,5 mm deriva dalla geometria G precedente e non verifica la fedeltà al prop MGM. Queste lavorazioni CNC in legno sono varianti nostre: Coleman documenta gusci in resina e supporti metallici. Le misure dei supporti reali e la chiusura smontabile devono ancora essere sviluppate; vedi [REV09](REV09_SOLIDI_PROTOTIPO_CNC.md).
 
+## REV10: rilievo del supporto, non deduzione dalla mesh
+
+Coleman documenta i gusci di piedi in due meta **adattati a mano a supporti metallici gia realizzati**. La pagina non da' le quote necessarie per tagliare lo scavo del nostro piede. La REV10 mette questo vincolo prima dei file CNC: scheda misura 4 supporti/ruote, script parametrico con input vuoto che si blocca e demo STEP/STL creata con **valori inventati e dichiarati tali**. Il legno CNC e il generatore sono scelte di questa replica, non del metodo di Coleman. [Dettagli REV10](REV10_RILIEVO_SUPPORTI_PARAMETRICO.md).
+
 ## Procedura proposta
 
 1. Tracciare e verificare il profilo a piena scala senza tagliare materiali costosi.
