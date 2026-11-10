@@ -2,6 +2,10 @@
 
 **Data:** 10 novembre 2026 · **Rettifica documentale della REV11** (non nuovi esecutivi). **Nessun OBJ, STL o G-code pubblicato.**
 
+## Aggiornamento 10 novembre 2026: REV12 più precisa
+
+La [REV12](REV12_VETTORI_PERROTTA_CNC.md) ha analizzato **direttamente i tracciati vettoriali** della tavola PDF (non gli screenshot) e il righello grafico da 12 pollici: 86,625 punti PDF, circa 3,518615 mm per punto. Le stime REV11A (250 × 135 × 150 mm, ±15 mm) sono pertanto **superate come riferimento CAD**: non descrivono un unico solido, ma mescolavano proiezioni diverse. I dati vettoriali REV12 separano due ricci laterali di circa 246–249 ×156 mm e quattro sostegni frontali di circa 126 ×134 mm. Gli scassi dei supporti metallici e il volume caster rimangono sconosciuti.
+
 ## Fonte originale e metodo
 
 Fonte primaria fornita al progetto: **Chris Perrotta, _Revised Time Machine Drawings7-19.PRINT_, © 1999, rivista da Don Coleman © 2010/2015, una tavola**. [Copia privata della tavola completa su Google Drive](https://drive.google.com/file/d/1ScR74LWQir1dddYwrZUCsf1HCA5OkPdF/view?usp=drivesdk). La tavola dichiara una ricostruzione dimensionalmente accurata del prop MGM 1960 e include **vista laterale**, **vista frontale** e una **scala grafica 0–12 INCHES**.
