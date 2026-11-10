@@ -27,6 +27,8 @@
 
 | 2026-11-10 | REV11A estrazione quote Perrotta | Misurati dal righello 0-12 in e viste ortogonali ingombri esterni ornamentali 250 × 135 × 150 mm ±15; report A3, due CSV, 7 file ZIP | Quattro risorse Drive private e documento GitHub | Non sono quote numeriche della tavola; staffe, fori e ruote NON documentati, 48 campi REV11 ancora vuoti |
 
+| 2026-11-10 | REV12 curva Perrotta vettoriale | Estratte 6 proiezioni dal PDF vettoriale, 6 DXF mm/6 SVG, PDF A3 6 tavole, script e QA; scala da righello 12 in | ZIP 24 file, 11 nuove risorse Drive, relazione GitHub, registro quote aggiornato | Le linee non sono contorni CNC, le proiezioni non formano 3D certo, staffe/ruote non quotate; nessun OBJ |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
