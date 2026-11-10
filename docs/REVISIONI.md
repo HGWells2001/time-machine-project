@@ -21,6 +21,8 @@
 
 | 2026-11-09 | REV09 solidi demo piedi CNC | Ricostruzione voxel 2,5 mm, 8 STL solidi watertight, tasca pilota, sedi perni, script rigenerabile, PDF A3 9 pagine | 16 risorse nuove Drive e registrazione su GitHub | Cavità e fori di centraggio dimostrativi, serraggio non progettato, G-code assente, nessun OBJ pubblicato |
 
+| 2026-11-10 | REV10 rilievo e modello parametrico | Kit 34 file, generatore con stop sui valori null, 8 gusci STL DEMO e 8 STEP inviluppi fittizi, 8 tavole A3 e schede quote | 12 risorse Drive collegate, registrazione GitHub, SHA256 ZIP verificato | Supporti reali NON misurati; scassi DEMO NON CNC; nessun OBJ o G-code pubblicato |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
