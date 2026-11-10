@@ -23,6 +23,8 @@
 
 | 2026-11-10 | REV10 rilievo e modello parametrico | Kit 34 file, generatore con stop sui valori null, 8 gusci STL DEMO e 8 STEP inviluppi fittizi, 8 tavole A3 e schede quote | 12 risorse Drive collegate, registrazione GitHub, SHA256 ZIP verificato | Supporti reali NON misurati; scassi DEMO NON CNC; nessun OBJ o G-code pubblicato |
 
+| 2026-11-10 | REV11 kit rilievo officina e validatore | 9 tavole A3, 4 schede A4, 48 quote/36 scenari/40 attività, script di validazione senza geometria | ZIP e 9 risorse individuali su Drive, 10 link su GitHub | Misure reali assenti (BLOCKED); carichi e giunti non approvati; zero OBJ pubblicati |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
