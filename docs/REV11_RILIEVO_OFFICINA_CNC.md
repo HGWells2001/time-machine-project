@@ -33,6 +33,10 @@ La scelta progettuale rimane: **otto semigusci decorativi in legno fresato CNC**
 
 La CNC in legno è **una nostra variante** rispetto ai gusci in resina di Coleman. Il sito NON fornisce le 48 quote richieste per l'acciaio.
 
+## Rettifica sulle quote esterne (REV11A)
+
+Sono state ricavate dalla [tavola Perrotta/Coleman](REV11A_QUOTE_PERROTTA.md) le misure **esterne del piede** di studio 250 × 135 × 150 mm, ±15 mm (classe G-Perrotta), da non confondere con il vecchio OBJ 302,35 × 143,90 × 180,06 mm. La blueprint **non riporta i supporti metallici nascosti o il volume dinamico delle ruote**: il modulo CSV da 48 quote rimane intenzionalmente vuoto e bloccato, finché non ci saranno dati reali.
+
 ## Misure necessarie
 
 Per ciascuno dei quattro supporti, registrare gli estremi X_min/X_max, Y_min/Y_max e Z_min/Z_max per:
