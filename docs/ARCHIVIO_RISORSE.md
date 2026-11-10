@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV11A)
+# Archivio risorse e download (fino alla REV12)
 
-**Aggiornamento:** 2026-11-10 (REV11A). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-10 (REV12). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,10 +10,10 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV11A: estrazione quote piedi da Perrotta** | 7 file: A3, CSV e ritagli della tavola originale solo su Drive privato | [Drive: REV11A ZIP](https://drive.google.com/file/d/1AQTMW7a6b367IpzdqpLX0dSmWrYknvum/view?usp=drivesdk) |
-| **REV11A: confronto Perrotta / OBJ** | Stime esterne G 250 × 135 × 150 mm ±15, non staffe né ruote | [Drive: PDF A3 2 pagine](https://drive.google.com/file/d/1Bn1ApPF0dtwOwzb7fHHiRyCmYMwcdsZQ/view?usp=drivesdk) |
-| **REV11: modulo rilievi officina** | Le 48 quote delle staffe non sono nel blueprint e restano da misurare | [Drive: schede A4](https://drive.google.com/file/d/1nj9JJQdUBarIUgBc2KI0FMv3LDhhOld0/view?usp=drivesdk) |
-| **Nota e metodologia** | Fonti, pixel/scala, limiti, PDF e CSV | [REV11A](REV11A_QUOTE_PERROTTA.md) |
+| **REV12: 6 proiezioni vettoriali Perrotta (ZIP 24 file)** | DXF/SVG in mm ottenuti dalle curve originali, ZERO OBJ | [Drive: REV12 completo](https://drive.google.com/file/d/1dp2DvruKjpKPZ7HvGi2h0ews065xo9Jd/view?usp=drivesdk) |
+| **REV12: 6 tavole A3** | Due ricci laterali e quattro sostegni frontali; scala grafica, barra 50mm, NON CNC | [Drive: PDF](https://drive.google.com/file/d/1CHX0RKjk-1GmqRE4hG9-k8Fq-jlnjQxs/view?usp=drivesdk) |
+| **REV12: tracciati e metodo** | Quote, script di estrazione, copyright e condizioni per il CAD tridimensionale | [Scheda REV12](REV12_VETTORI_PERROTTA_CNC.md) |
+| **Fonte Perrotta/Coleman** | Tavola originale 1 pagina, conservata privata | [Fonti e provenienza](FONTI.md) |
 
 ## Registro completo delle risorse create o conservate
 
@@ -129,6 +129,18 @@
 | R99 | REV11A | CSV 6 campioni e conversioni righello pixel→mm | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1KxX0DkX9v5_UF--D6e-lPhBYUFLS1tWc/view?usp=drivesdk) |
 | R100 | REV11A | CSV 3 quote G-Perrotta più campi V carpenteria | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1MKFPEAuyhNU6k_UWKkgRpqA-_YuceesD/view?usp=drivesdk) |
 
+| R101 | REV12 | ZIP con 24 file: 6 DXF e 6 SVG privati, PDF, script e quote senza OBJ | ZIP | PRELIMINARE | [Drive](https://drive.google.com/file/d/1dp2DvruKjpKPZ7HvGi2h0ews065xo9Jd/view?usp=drivesdk) |
+| R102 | REV12 | Dossier PDF A3 6 tavole, righello 50mm e sei proiezioni | PDF | PRELIMINARE | [Drive](https://drive.google.com/file/d/1CHX0RKjk-1GmqRE4hG9-k8Fq-jlnjQxs/view?usp=drivesdk) |
+| R103 | REV12 | DXF laterale SX: 51 polilinee Bézier approssimate | DXF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1sstIPmzQ0yZmRs3rCtPz-VdtNWNWJ77R/view?usp=drivesdk) |
+| R104 | REV12 | DXF laterale DX: 51 polilinee Bézier approssimate | DXF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1037NoAYjTSiX39kcJE_d2p4mNzg9_bvd/view?usp=drivesdk) |
+| R105 | REV12 | DXF frontale F1: 10 polilinee | DXF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1u7vCClfWEU1c68_MxpJTB8Zlm0m3zwnd/view?usp=drivesdk) |
+| R106 | REV12 | DXF frontale F2: 12 polilinee | DXF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1lXoWM-1OaseqUvfypHHIARIu9fgf2d7E/view?usp=drivesdk) |
+| R107 | REV12 | DXF frontale F3: 12 polilinee | DXF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/12H5dQOVgFqMbyyehrFKapeL4qhfaVpPT/view?usp=drivesdk) |
+| R108 | REV12 | DXF frontale F4: 10 polilinee | DXF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1DajZ97klckgE6sIA1c8qCmZJEfHZqyF_/view?usp=drivesdk) |
+| R109 | REV12 | Registro dimensioni G-Perrotta e numero tratti | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1pFjFiSLD3ueJU1NraSWP4CmFtTsQ0Ac1/view?usp=drivesdk) |
+| R110 | REV12 | Python estrattore riproducibile da file PDF posseduto | PY | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1fSST7ubFWup0g3aTj68TB9rRAHPMrr8U/view?usp=drivesdk) |
+| R111 | REV12 | PNG panoramica vettoriale dei profili | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1VQeNYix2v8-SiQ-YmR13tt6Y10v40JyB/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
@@ -141,7 +153,7 @@ Il pacchetto REV10 (R75) include 34 membri. Dettaglio: 4 STL G sorgente, script 
 
 Il pacchetto REV11 (R87) contiene 15 file: due PDF (A3 9 pagine e A4 4 pagine), tre template di rilievo/controllo CSV più gates e fonte CSV, JSON vuoto, script di validazione e report di test BLOCKED, README, due anteprime e manifest SHA256. Nessun OBJ, STL, STEP o G-code; i file grafici REV10 restano nel loro archivio precedente.
 
-Il pacchetto REV11A (R97) include 7 file: dossier A3 di 2 pagine, due CSV, tre piccoli estratti grafici del blueprint con attribuzione e README. Gli estratti della fonte protetta restano **esclusivamente nel Drive privato**. Nessun OBJ o esecutivo CAD è stato aggiunto.\n\n## Come trovare i singoli file negli ZIP
+Il pacchetto REV11A (R97) include 7 file: dossier A3 di 2 pagine, due CSV, tre piccoli estratti grafici del blueprint con attribuzione e README. Gli estratti della fonte protetta restano **esclusivamente nel Drive privato**. Nessun OBJ o esecutivo CAD è stato aggiunto.\n\nIl pacchetto REV12 (R101) contiene **24 file**: 6 DXF, 6 SVG, PDF A3 a 6 pagine, due script, registri JSON/CSV, 4 anteprime e README. Il PDF originale Perrotta non è ridistribuito; tutti i tracciati da esso derivati rimangono sul Drive **privato**. Nessun OBJ, mesh o G-code.\n\n## Come trovare i singoli file negli ZIP
 
 Le tabelle seguenti riportano i percorsi interni verificati e i gruppi di contenuti; per ciascun elemento il **collegamento è quello all'archivio Drive**. Non esistono URL pubblici separati per i membri non estratti.
 
