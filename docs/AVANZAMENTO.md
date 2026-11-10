@@ -1,6 +1,6 @@
 # Avanzamento delle lavorazioni
 
-**Aggiornamento REV11: 2026-11-10 | Fase: pre-progettazione.**
+**Aggiornamento REV11A: 2026-11-10 | Fase: pre-progettazione.**
 
 Le parole **preparato** e **documentato** non significano **pronto per costruire**.
 
@@ -105,6 +105,16 @@ Le parole **preparato** e **documentato** non significano **pronto per costruire
 - [ ] Verificare accesso freni, ruote e smontaggio; mock-up a secco e prove professionali.
 - [ ] Tecnico: verificare tutti i carichi, stabilità e parti portanti.
 
+## Priorità 3-octies: REV11A lettura diretta della tavola Perrotta
+
+- [x] Fonte Perrotta/Coleman originale analizzata: vista laterale, frontale e righello grafico 0-12 in.
+- [x] Stime **G-Perrotta** dei soli gusci esterni: X=250, Y=135, Z=150 mm, incertezza ±15 mm; [dossier e dati](REV11A_QUOTE_PERROTTA.md).
+- [x] Identificata discrepanza del vecchio OBJ 302,35 × 143,90 × 180,06 mm (+21%, +7%, +20% circa): non trasformare automaticamente mesh con scala differente per ogni asse.
+- [x] Tre misure aggiunte a `data/registro_quote.csv`; report PDF di 2 pagine e due registri CSV privati su Drive.
+- [ ] Riconciliare dettagli artistici e profili del piede fra blueprint e geometria prima dei solidi per CNC.
+- [ ] Le 48 quote dei supporti metallici/ruote non figurano nel blueprint e rimangono DA MISURARE/PROGETTARE.
+- [ ] Approvatore tecnico e artigiano devono definire cavità, viti, accesso freni e stabilità.
+
 ## Priorità 4: grande disco posteriore
 
 - [x] Segnalata differenza tra riferimento Coleman 60″ e OBJ precedente.
@@ -127,4 +137,4 @@ Una lavorazione può essere segnata **PRONTA PER PREVENTIVO VINCOLANTE / FABBRIC
 
 ## Archivio esterno
 
-La REV11 kit officina è su Drive come `TimeMachine_1960_REV11_RILIEVO_OFFICINA_CNC.zip`. La REV10 parametrici/rilievi è su Drive come `TimeMachine_REV10_KIT_RILIEVI_PARAMETRICO.zip`. La REV09 solidi di prova è su Drive come `TimeMachine_1960_REV09_SOLIDI_PROTOTIPO_CNC.zip`. La REV08 piedi in legno CNC è su Drive come `TimeMachine_1960_REV08_PIEDI_LEGNO_CNC.zip`. La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
+La REV11A Perrotta è su Drive come `TimeMachine_REV11A_QUOTE_PERROTTA.zip`. La REV11 kit officina è su Drive come `TimeMachine_1960_REV11_RILIEVO_OFFICINA_CNC.zip`. La REV10 parametrici/rilievi è su Drive come `TimeMachine_REV10_KIT_RILIEVI_PARAMETRICO.zip`. La REV09 solidi di prova è su Drive come `TimeMachine_1960_REV09_SOLIDI_PROTOTIPO_CNC.zip`. La REV08 piedi in legno CNC è su Drive come `TimeMachine_1960_REV08_PIEDI_LEGNO_CNC.zip`. La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
