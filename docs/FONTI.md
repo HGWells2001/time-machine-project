@@ -59,6 +59,9 @@ La scelta di fresare in legno i semigusci dei piedi nella REV08 è una variante 
 
 ## Cronologia dei controlli
 
+- 2026-11-10 REV11: ricontrollate le pagine ufficiali di Don Coleman [The Feet](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%205.htm) e [The Base](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%201.htm). La fonte descrive supporti con ruote e gusci, ma NON le loro dimensioni; i nuovi moduli, test e controlli sono proposte REV11. Vedi [documentazione](REV11_RILIEVO_OFFICINA_CNC.md).
+
+
 - 2026-11-09 REV06: verificata la testimonianza S16 di Perrotta sull'interfaccia originale della sedia MGM. Quote dei fori ignote; collegata nella REV06.
 
 - 2026-11-09 REV05: tavola S15 ricevuta e analizzata, aggiunta copia in Drive privato; le dimensioni pubblicate nel dossier REV05 sono stime grafiche, non quote MGM certificate.
