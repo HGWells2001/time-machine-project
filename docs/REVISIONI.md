@@ -25,6 +25,8 @@
 
 | 2026-11-10 | REV11 kit rilievo officina e validatore | 9 tavole A3, 4 schede A4, 48 quote/36 scenari/40 attività, script di validazione senza geometria | ZIP e 9 risorse individuali su Drive, 10 link su GitHub | Misure reali assenti (BLOCKED); carichi e giunti non approvati; zero OBJ pubblicati |
 
+| 2026-11-10 | REV11A estrazione quote Perrotta | Misurati dal righello 0-12 in e viste ortogonali ingombri esterni ornamentali 250 × 135 × 150 mm ±15; report A3, due CSV, 7 file ZIP | Quattro risorse Drive private e documento GitHub | Non sono quote numeriche della tavola; staffe, fori e ruote NON documentati, 48 campi REV11 ancora vuoti |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
