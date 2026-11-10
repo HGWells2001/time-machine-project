@@ -1,6 +1,6 @@
 # Fonti e riferimenti | Time Machine Project
 
-**Ultima verifica:** 9 novembre 2026. **Scopo:** replica artigianale 1:1 del prop cinematografico MGM del 1960.
+**Ultima verifica:** 10 novembre 2026. **Scopo:** replica artigianale 1:1 del prop cinematografico MGM del 1960.
 
 Questa pagina elenca **fonti originali esterne** e i relativi usi tecnici. Per l'archivio dei materiali derivati consulta [Risorse e download](ARCHIVIO_RISORSE.md). Le misure delle repliche di Don Coleman non equivalgono automaticamente a quote certificate dell'esemplare MGM.
 
@@ -60,6 +60,10 @@ La scelta di fresare in legno i semigusci dei piedi nella REV08 è una variante 
 ## Lettura metrica Perrotta (10 novembre 2026)
 
 La tavola primaria S01 contiene un righello **0–12 inches**: sono state lette le sagome ornamentali dei piedi in vista laterale e frontale, con stima **250 × 135 × 150 mm ±15**, **G-Perrotta**, non quote stampate dall'autore. Le differenze rispetto alle misure del vecchio OBJ sono documentate in [REV11A](REV11A_QUOTE_PERROTTA.md) e nel [dossier privato A3](https://drive.google.com/file/d/1Bn1ApPF0dtwOwzb7fHHiRyCmYMwcdsZQ/view?usp=drivesdk). Il blueprint **non dà geometrie o dimensioni interne per le quattro staffe metalliche o le ruote**. Non desumere tali valori dal profilo esterno.
+
+## Calibrazione e tracciamento vettoriale REV12
+
+Dalla fonte **S01**, tavola PDF originale (un'unica pagina vettoriale), sono state estratte le Bézier di 2 ricci laterali e 4 proiezioni di sostegni frontali, con copia **solo su Drive privato**. Il righello del PDF da **12 in** occupa circa **86,625 punti PDF** (calibrato dalla rasterizzazione a 4×), equivalente a 304,8 mm. Il parametro 3,518615 mm/punto corregge il precedente valore approssimato dedotto da screenshot nella REV11A. Il metodo e le quote sono in [REV12](REV12_VETTORI_PERROTTA_CNC.md). Fonte protetta Perrotta/Coleman: **non pubblicare le curve estratte nel repository pubblico**. Nessuna delle forme estratte fornisce dimensioni della carpenteria interna o del caster.
 
 ## Cronologia dei controlli
 
