@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV09)
+# Archivio risorse e download (fino alla REV10)
 
-**Aggiornamento:** 2026-11-09 (REV09). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-10 (REV10). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,10 +10,10 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV09: 8 solidi chiusi di prova (ZIP 26 file)** | 8 STL, input, script rigenerabile, PDF, dati e verifiche, ZERO OBJ | [Drive: REV09 ZIP](https://drive.google.com/file/d/103bi5G24Y6h7gE_fsV2mbZub897Vfa-3/view?usp=drivesdk) |
-| **REV09: dossier 9 tavole A3** | Prototipi di semigusci, tasca dimostrativa e montaggio da studiare | [Drive: dossier](https://drive.google.com/file/d/1HK34ki-zxgrP5MDG9h5KVsl2jkAHgeVw/view?usp=drivesdk) |
-| **REV09: scheda e 8 STL individuali** | Dimensioni, limitazioni e collegamenti a ogni file | [Scheda REV09](REV09_SOLIDI_PROTOTIPO_CNC.md) |
-| **Fonti Perrotta / Coleman** | Metodo originale e limiti di validità delle quote | [Fonti](FONTI.md) |
+| **REV10: kit rilievi e STEP/STL dimostrativi** | 34 file, generatore parametrico con blocco delle misure mancanti, zero OBJ | [Drive: REV10 ZIP](https://drive.google.com/file/d/1tkFjJFvO99LrJFzBHJVG8PzBXXq-d0AN/view?usp=drivesdk) |
+| **REV10: dossier A3, otto tavole** | Schema di rilievo per carpentiere/falegname, non esecutivo | [Drive: REV10 PDF](https://drive.google.com/file/d/1h3jFYVaEiy5kqqMchuvNJc-V4MuLn2Fy/view?usp=drivesdk) |
+| **REV10: scheda e collegamenti ai singoli file** | Fonti, geometrie note, test, limiti e lavori aperti | [Scheda REV10](REV10_RILIEVO_SUPPORTI_PARAMETRICO.md) |
+| **Fonti Coleman/Perrotta** | Ricerca storica e processo di costruzione documentato | [Fonti](FONTI.md) |
 
 ## Registro completo delle risorse create o conservate
 
@@ -100,6 +100,19 @@
 | R73 | REV09 | P034-A, SOLIDO CHIUSO DEMO, NON CNC | STL | STUDIO NON CNC | [Drive](https://drive.google.com/file/d/1WaM52cPcUkzsLxbZuFYXJjMALJaRPG35/view?usp=drivesdk) |
 | R74 | REV09 | P034-B, SOLIDO CHIUSO DEMO, NON CNC | STL | STUDIO NON CNC | [Drive](https://drive.google.com/file/d/10qRoSkhzExRPZhKFsNto3YigHbJ-6Olu/view?usp=drivesdk) |
 
+| R75 | REV10 | ZIP 34 file: 8 STL, 8 STEP, script, PDF e registri senza OBJ | ZIP | PRELIMINARE | [Drive](https://drive.google.com/file/d/1tkFjJFvO99LrJFzBHJVG8PzBXXq-d0AN/view?usp=drivesdk) |
+| R76 | REV10 | Dossier 8 tavole A3 | PDF | PRELIMINARE | [Drive](https://drive.google.com/file/d/1h3jFYVaEiy5kqqMchuvNJc-V4MuLn2Fy/view?usp=drivesdk) |
+| R77 | REV10 | JSON reale vuoto: misure da fare | JSON | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/12-zwKOjZ9kkdrBlROH2wXezTwg6GFRLk/view?usp=drivesdk) |
+| R78 | REV10 | JSON con valori FITTIZI | JSON | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1dGcj3l717549S5RB6oclpkaTJjn5a8xy/view?usp=drivesdk) |
+| R79 | REV10 | Generatore Python: STUDY ONLY | PY | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1QhQCvMo-HpO3HBapWLMf0JILWC9seDfd/view?usp=drivesdk) |
+| R80 | REV10 | CSV compilabile con 48 quote | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1Ya0tXkYlRYOusttgd4gzyT2WR4wPMvmJ/view?usp=drivesdk) |
+| R81 | REV10 | CSV dei nove gate G0-G8 aperti | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1q0hMSbAiPOvy0WcPKAqLLbvEAMi4BU5Y/view?usp=drivesdk) |
+| R82 | REV10 | PNG dimostrazione inviluppi P031 | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1QoO2vSfFoUL7A_rHyOktUq_6lRfuAwJ5/view?usp=drivesdk) |
+| R83 | REV10 | STEP acciaio fittizio, non costruire | STEP | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1Yq32eLU9_6xUJ4sjPOkK4QKlePV5JLtc/view?usp=drivesdk) |
+| R84 | REV10 | STEP ingombro scavo fittizio, non costruire | STEP | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1FTfdpk8piNAwo5A4vaCVQLKa5JtH_irP/view?usp=drivesdk) |
+| R85 | REV10 | STL guscio P031-A demo NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1CvjMWrOh1TCQbWZi3CVnzEC8rE-M8q4g/view?usp=drivesdk) |
+| R86 | REV10 | STL guscio P031-B demo NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1dnixlbdz_fQcKz2DuokPLy83w9VBUpd-/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
@@ -107,6 +120,8 @@ Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF d
 Il pacchetto REV07 R32 contiene 16 file: PDF A3 12 tavole, DXF di soli ingombri, 4 CSV, JSON coordinate, scheda artigiani, file fonti, README, manifesto SHA256 e 4 PNG di anteprima.
 
 Il pacchetto REV08 (R41) comprende 23 file: 8 STL esterni APERTI, 1 PDF A3 di 11 pagine, 1 DXF di silhouette, registri, anteprime e schede. Questi STL non sono solidi pronti per CAM. Nessun OBJ è contenuto o pubblicato.\n\nIl pacchetto REV09 (R59) ha 26 file e contiene 8 STL chiusi di prova e 4 STL sorgente non manifold, senza alcun OBJ. La tasca e le sedi dei perni sono DIMOSTRATIVE; nessuna filettatura né foro di serraggio è modellato.
+
+Il pacchetto REV10 (R75) include 34 membri. Dettaglio: 4 STL G sorgente, script e 2 JSON, 8 STL DEMO chiusi, 8 STEP dimostrativi di acciaio/scavo, CSV e immagini, 8 tavole A3, istruzioni e manifest SHA256. Sono **tutti** disponibili tramite il link allo ZIP; i file più utili sono anche collegati singolarmente. L'input reale vuoto blocca intenzionalmente la generazione. Nessun OBJ e nessun G-code.
 
 ## Come trovare i singoli file negli ZIP
 
