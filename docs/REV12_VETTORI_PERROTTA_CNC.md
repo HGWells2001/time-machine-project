@@ -50,9 +50,13 @@ La [REV11A](REV11A_QUOTE_PERROTTA.md) proponeva stime di insieme **250 × 135 ×
 
 La [REV11](REV11_RILIEVO_OFFICINA_CNC.md) richiede 48 misure del supporto reale e del movimento ruote. **Queste quote restano vuote**: il blueprint mostra l'esterno, non sezioni interne portanti, staffe, bulloni o caster in tutte le posizioni.
 
+## Aggiornamento REV14: divergenza REV13 **spiegata e risolta**
+
+La [REV14](REV14_RICCI_ARTISTICI_3D.md) ha confrontato gli estremi **matematici** dei cubici Bézier con i vertici campionati dei DXF. Il rettangolo `d['rect']` ottenuto da MuPDF include gli estremi dei **punti di controllo**, che possono estendersi oltre la curva. Quindi le larghezze 246,317 e 249,262 mm sono **bbox dei punti di controllo**, non larghezze effettive dei tratti. La curva matematica misura SX **242,917 × 151,742 mm** e DX **243,480 × 151,747 mm**; il DXF è concorde entro 0,006 mm. Fonte numerica: [audit completo](https://drive.google.com/file/d/1p5nCZPTajpC-3ZY_sSo_cDo-WYGHwQvs/view?usp=drivesdk). Tutti questi valori sono classi G e non quotature originali dell'esemplare MGM.
+
 ## Ricalcolo REV13 degli estremi dei vertici DXF
 
-La [REV13](REV13_RILIEVI_2_5D.md), usando gli stessi sei DXF come ingresso, misura nei punti LWPOLYLINE **242,914 mm (SX)** e **243,474 mm (DX)**, contro **246,317 / 249,262 mm** del registro di quote vettoriali REV12. Si tratta di una **discordanza di metodo ancora aperta** pari a circa 3,403 e 5,788 mm. Non correggere la scala, attribuire i numeri all'originale MGM o usare gli ingombri come quote CNC finché la divergenza non è spiegata. Gli altri frontali risultano sostanzialmente coincidenti.
+La [REV13](REV13_RILIEVI_2_5D.md), usando gli stessi sei DXF come ingresso, misura nei punti LWPOLYLINE **242,914 mm (SX)** e **243,474 mm (DX)**, contro **246,317 / 249,262 mm** del registro di quote vettoriali REV12. Era una **discordanza di metodo, risolta nella REV14** pari a circa 3,403 e 5,788 mm. Non correggere la scala, attribuire i numeri all'originale MGM o usare gli ingombri come quote CNC finché la divergenza non è spiegata. Gli altri frontali risultano sostanzialmente coincidenti.
 
 ## Validazioni effettuate
 
