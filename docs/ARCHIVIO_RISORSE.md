@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV12)
+# Archivio risorse e download (fino alla REV13)
 
-**Aggiornamento:** 2026-11-10 (REV12). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-11 (REV13). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,10 +10,10 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV12: 6 proiezioni vettoriali Perrotta (ZIP 24 file)** | DXF/SVG in mm ottenuti dalle curve originali, ZERO OBJ | [Drive: REV12 completo](https://drive.google.com/file/d/1dp2DvruKjpKPZ7HvGi2h0ews065xo9Jd/view?usp=drivesdk) |
-| **REV12: 6 tavole A3** | Due ricci laterali e quattro sostegni frontali; scala grafica, barra 50mm, NON CNC | [Drive: PDF](https://drive.google.com/file/d/1CHX0RKjk-1GmqRE4hG9-k8Fq-jlnjQxs/view?usp=drivesdk) |
-| **REV12: tracciati e metodo** | Quote, script di estrazione, copyright e condizioni per il CAD tridimensionale | [Scheda REV12](REV12_VETTORI_PERROTTA_CNC.md) |
-| **Fonte Perrotta/Coleman** | Tavola originale 1 pagina, conservata privata | [Fonti e provenienza](FONTI.md) |
+| **REV13: pannelli di rilievo 2.5D, ZIP 17 file** | Sei STL dimostrativi chiusi, sei anteprime, generatore e registro QA, **NON piedi CNC** | [Drive: REV13 completo](https://drive.google.com/file/d/1AeUp6kI7Sw8nkvT_icxESQQcWzG5pbM7/view?usp=drivesdk) |
+| **REV13: dossier 8 tavole A3** | Studio 3D dei tratti e distinzione tra 2D Perrotta e profondità inventate | [Drive: PDF REV13](https://drive.google.com/file/d/1OEYP_NR15HSttJlX_3GwldgAKP_lUjz5/view?usp=drivesdk) |
+| **REV13: parametri e limiti** | 6/6 watertight; profondità demo 0–6 mm, piastra demo 4 mm, divergenza DXF vs CSV REV12 | [Scheda REV13](REV13_RILIEVI_2_5D.md) |
+| **REV12: curve originali da blueprint** | Sei DXF e sei SVG protetti; base geometrica per REV13 | [REV12](REV12_VETTORI_PERROTTA_CNC.md) |
 
 ## Registro completo delle risorse create o conservate
 
@@ -141,6 +141,25 @@
 | R110 | REV12 | Python estrattore riproducibile da file PDF posseduto | PY | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1fSST7ubFWup0g3aTj68TB9rRAHPMrr8U/view?usp=drivesdk) |
 | R111 | REV12 | PNG panoramica vettoriale dei profili | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1VQeNYix2v8-SiQ-YmR13tt6Y10v40JyB/view?usp=drivesdk) |
 
+| R112 | REV13 | ZIP di 17 file: 6 STL di pannelli 2.5D, 6 PNG e studio | ZIP | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1AeUp6kI7Sw8nkvT_icxESQQcWzG5pbM7/view?usp=drivesdk) |
+| R113 | REV13 | PDF 8 tavole A3, studio volumetrico dimostrativo | PDF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1OEYP_NR15HSttJlX_3GwldgAKP_lUjz5/view?usp=drivesdk) |
+| R114 | REV13 | CSV 6 validazioni watertight e conflitti di quote | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1bA2ca6q0J4Xewx5t8T_2XgBm53Upjplp/view?usp=drivesdk) |
+| R115 | REV13 | JSON parametri 4mm base, 6mm rilievo INVENTATI | JSON | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1h05qp2PUREtTp-Tml8pJVO2nz6_XjOk-/view?usp=drivesdk) |
+| R116 | REV13 | Script Python riproducibile da ZIP REV12 privato | PY | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1RQAlobC3aQjiUe_zf00UgwKO2_OSqcH2/view?usp=drivesdk) |
+| R117 | REV13 | LEGGIMI limiti di interpretazione | MD | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1krRO6jNPHeR1gnXxO7KSrM9bKCOU-d7R/view?usp=drivesdk) |
+| R118 | REV13 | STL pannello laterale sinistro, non piede CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1m3yNzw_nr-x4yAYpo5qRLNd4tAPgbQPE/view?usp=drivesdk) |
+| R119 | REV13 | STL pannello laterale destro, non piede CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1eIU-Fs-0qVe4ZALW5lMjZqYig2afdcnj/view?usp=drivesdk) |
+| R120 | REV13 | STL pannello frontale F1, non piede CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/177sR2E7Uprs3iUvi03TQjSaE8A_JHg3g/view?usp=drivesdk) |
+| R121 | REV13 | STL pannello frontale F2, non piede CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1UCSQXn_QQ1r_HZ7_i4WVh9EczAWOdIAx/view?usp=drivesdk) |
+| R122 | REV13 | STL pannello frontale F3, non piede CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1oUbxEOunY__aIe3LEeqXsVk6Awwc7Grz/view?usp=drivesdk) |
+| R123 | REV13 | STL pannello frontale F4, non piede CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1VHslrXC7RtqzsWXr14y9dTpvkgucIiHW/view?usp=drivesdk) |
+| R124 | REV13 | PNG anteprima laterale sinistro | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1oTWAUMzmzsOh8sHoSn_9FZuwsGA4_bKu/view?usp=drivesdk) |
+| R125 | REV13 | PNG anteprima laterale destro | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1TcTRWLaiXIKBSxUoMf3w2inL-piAcipX/view?usp=drivesdk) |
+| R126 | REV13 | PNG anteprima frontale F1 | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1gkOl6_tjSmbHnw1m3jDBO24Tgm5Sctsr/view?usp=drivesdk) |
+| R127 | REV13 | PNG anteprima frontale F2 | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1VnYajD4Fq25zwN72Xfa1lv4kZdYqyssr/view?usp=drivesdk) |
+| R128 | REV13 | PNG anteprima frontale F3 | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/14XZtsBZgsPz9sQY07c0r9SxvZj5kTtyh/view?usp=drivesdk) |
+| R129 | REV13 | PNG anteprima frontale F4 | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1c6G5z0qo6GpuQcCWf6uysOnrNysGNFDX/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
@@ -153,7 +172,7 @@ Il pacchetto REV10 (R75) include 34 membri. Dettaglio: 4 STL G sorgente, script 
 
 Il pacchetto REV11 (R87) contiene 15 file: due PDF (A3 9 pagine e A4 4 pagine), tre template di rilievo/controllo CSV più gates e fonte CSV, JSON vuoto, script di validazione e report di test BLOCKED, README, due anteprime e manifest SHA256. Nessun OBJ, STL, STEP o G-code; i file grafici REV10 restano nel loro archivio precedente.
 
-Il pacchetto REV11A (R97) include 7 file: dossier A3 di 2 pagine, due CSV, tre piccoli estratti grafici del blueprint con attribuzione e README. Gli estratti della fonte protetta restano **esclusivamente nel Drive privato**. Nessun OBJ o esecutivo CAD è stato aggiunto.\n\nIl pacchetto REV12 (R101) contiene **24 file**: 6 DXF, 6 SVG, PDF A3 a 6 pagine, due script, registri JSON/CSV, 4 anteprime e README. Il PDF originale Perrotta non è ridistribuito; tutti i tracciati da esso derivati rimangono sul Drive **privato**. Nessun OBJ, mesh o G-code.\n\n## Come trovare i singoli file negli ZIP
+Il pacchetto REV11A (R97) include 7 file: dossier A3 di 2 pagine, due CSV, tre piccoli estratti grafici del blueprint con attribuzione e README. Gli estratti della fonte protetta restano **esclusivamente nel Drive privato**. Nessun OBJ o esecutivo CAD è stato aggiunto.\n\nIl pacchetto REV12 (R101) contiene **24 file**: 6 DXF, 6 SVG, PDF A3 a 6 pagine, due script, registri JSON/CSV, 4 anteprime e README. Il PDF originale Perrotta non è ridistribuito; tutti i tracciati da esso derivati rimangono sul Drive **privato**. Nessun OBJ, mesh o G-code.\n\n**REV13 (R112):** 17 file: sei STL di rilievi DEMO, sei PNG preview, dossier A3 di otto pagine, CSV di test, JSON parametri, script e README. Nessun OBJ. Le geometrie derivate dalla fonte protetta Perrotta sono conservate **soltanto su Drive privato**.\n\n## Come trovare i singoli file negli ZIP
 
 Le tabelle seguenti riportano i percorsi interni verificati e i gruppi di contenuti; per ciascun elemento il **collegamento è quello all'archivio Drive**. Non esistono URL pubblici separati per i membri non estratti.
 
