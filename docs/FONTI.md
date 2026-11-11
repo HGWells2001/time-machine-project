@@ -69,6 +69,12 @@ Dalla fonte **S01**, tavola PDF originale (un'unica pagina vettoriale), sono sta
 
 La [REV13](REV13_RILIEVI_2_5D.md) prende in ingresso le **sei proiezioni vettoriali della REV12**, a loro volta derivate dalla fonte S01. I nuovi STL sono pannelli 2.5D **interpretativi**, con spessore base e altezza del rilievo non presenti nel blueprint. Il confronto sugli estremi dei vertici DXF individua una discrepanza con gli ingombri tabellati nella REV12, ancora da chiarire. Nessuna fonte originale fornisce la profondità di ciascun riccio o la geometria delle staffe nascoste. Per copyright, superfici STL derivate da quelle curve e PNG restano sul Drive privato.
 
+## REV14: tecnica scolpita documentata e limiti di profondità
+
+La [REV14](REV14_RICCI_ARTISTICI_3D.md) confronta la documentazione della fonte S01 con [Don Coleman, *The Feet*](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%205.htm). Coleman mostra master in due metà scolpiti sulle superfici esterne, poi calchi in resina con cavità adattata ai supporti metallici. **Non** documenta i nostri profili di fresatura CNC in legno, né la profondità esatta dei ricci. Il volume artistico a giorno della REV14 è una scelta **I**, non il profilo 3D MGM.
+
+L'audit REV14 usa il PDF Perrotta S01 e distingue esattamente il **bbox dei punti di controllo Bézier** dagli **estremi matematici della curva effettiva**. Il DXF campionato della REV12 differisce dall'analitico di meno di 0,006 mm: controllo digitale, non accuratezza fisica. Il [CSV di audit privato](https://drive.google.com/file/d/1p5nCZPTajpC-3ZY_sSo_cDo-WYGHwQvs/view?usp=drivesdk) conserva la prova numerica senza distribuire il disegno protetto.
+
 ## Cronologia dei controlli
 
 - 2026-11-10 REV11: ricontrollate le pagine ufficiali di Don Coleman [The Feet](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%205.htm) e [The Base](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%201.htm). La fonte descrive supporti con ruote e gusci, ma NON le loro dimensioni; i nuovi moduli, test e controlli sono proposte REV11. Vedi [documentazione](REV11_RILIEVO_OFFICINA_CNC.md).
