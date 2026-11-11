@@ -1,6 +1,6 @@
 # Avanzamento delle lavorazioni
 
-**Aggiornamento REV12: 2026-11-10 | Fase: pre-progettazione.**
+**Aggiornamento REV13: 2026-11-11 | Fase: pre-progettazione.**
 
 Le parole **preparato** e **documentato** non significano **pronto per costruire**.
 
@@ -126,6 +126,18 @@ Le parole **preparato** e **documentato** non significano **pronto per costruire
 - [ ] Acquisire **48 misure reali** di carpenteria e caster, ancora non presenti sul blueprint.
 - [ ] CAD 3D, spessore residuo del legno, simulazioni CAM e approvazione della struttura da professionisti.
 
+## Priorità 3-decies: REV13 rilievi di studio dalle curve Perrotta
+
+- [x] Da 2 tracciati laterali e 4 frontali REV12 generati **6 pannelli 2.5D solidi**, con 4 mm di base e 6 mm di rilievo **I / NON ORIGINALI**; [scheda REV13](REV13_RILIEVI_2_5D.md).
+- [x] Sei STL DEMO watertight, volume positivo e un componente per mesh; 6 anteprime PNG.
+- [x] Dossier PDF A3 a 8 tavole e generatore riproducibile verificato con ZIP REV12 come input.
+- [x] Archivio ZIP 17 file testato, nessun OBJ né G-code; Drive privato e documentazione su GitHub.
+- [x] Rilevata discrepanza tra ingombri del CSV REV12 (246,317/249,262 mm) e punti DXF diretti (242,914/243,474 mm), differenza 3,403/5,788 mm.
+- [ ] Riconciliare origine degli ingombri laterali e i criteri di inclusione dei contorni.
+- [ ] Identificare il **vero numero di corpi** e la corrispondenza tra ricci laterali e sostegni frontali in foto originali.
+- [ ] Ricostruire superfici 3D e sottosquadri su evidenza fotografica; vietato presentare il pannello come piede.
+- [ ] Ottenere geometria vera delle 4 staffe e delle ruote, definire gli spessori dei gusci, giunti e CAM di officina.
+
 ## Priorità 4: grande disco posteriore
 
 - [x] Segnalata differenza tra riferimento Coleman 60″ e OBJ precedente.
@@ -148,4 +160,4 @@ Una lavorazione può essere segnata **PRONTA PER PREVENTIVO VINCOLANTE / FABBRIC
 
 ## Archivio esterno
 
-La REV12 vettori Perrotta è su Drive come `TimeMachine_REV12_PERROTTA_VETTORI.zip`. La REV11A Perrotta è su Drive come `TimeMachine_REV11A_QUOTE_PERROTTA.zip`. La REV11 kit officina è su Drive come `TimeMachine_1960_REV11_RILIEVO_OFFICINA_CNC.zip`. La REV10 parametrici/rilievi è su Drive come `TimeMachine_REV10_KIT_RILIEVI_PARAMETRICO.zip`. La REV09 solidi di prova è su Drive come `TimeMachine_1960_REV09_SOLIDI_PROTOTIPO_CNC.zip`. La REV08 piedi in legno CNC è su Drive come `TimeMachine_1960_REV08_PIEDI_LEGNO_CNC.zip`. La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
+La REV13 rilievi DEMO è su Drive come `TimeMachine_REV13_RILIEVI_2_5D.zip`. La REV12 vettori Perrotta è su Drive come `TimeMachine_REV12_PERROTTA_VETTORI.zip`. La REV11A Perrotta è su Drive come `TimeMachine_REV11A_QUOTE_PERROTTA.zip`. La REV11 kit officina è su Drive come `TimeMachine_1960_REV11_RILIEVO_OFFICINA_CNC.zip`. La REV10 parametrici/rilievi è su Drive come `TimeMachine_REV10_KIT_RILIEVI_PARAMETRICO.zip`. La REV09 solidi di prova è su Drive come `TimeMachine_1960_REV09_SOLIDI_PROTOTIPO_CNC.zip`. La REV08 piedi in legno CNC è su Drive come `TimeMachine_1960_REV08_PIEDI_LEGNO_CNC.zip`. La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
