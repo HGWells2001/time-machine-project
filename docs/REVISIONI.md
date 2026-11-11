@@ -29,6 +29,8 @@
 
 | 2026-11-10 | REV12 curva Perrotta vettoriale | Estratte 6 proiezioni dal PDF vettoriale, 6 DXF mm/6 SVG, PDF A3 6 tavole, script e QA; scala da righello 12 in | ZIP 24 file, 11 nuove risorse Drive, relazione GitHub, registro quote aggiornato | Le linee non sono contorni CNC, le proiezioni non formano 3D certo, staffe/ruote non quotate; nessun OBJ |
 
+| 2026-11-11 | REV13 rilievi 2.5D Perrotta | Generati 6 pannelli STL chiusi da curve REV12, 6 PNG, 8 tavole A3, CSV QA e script con prova di rigenerazione | ZIP 17 file su Drive privato; 18 risorse indicizzate, 129 totali; scheda GitHub | Profondità DEMO 6 mm e piastra 4 mm INVENTATE; 6 pannelli non sono 4 piedi 3D; divergenza DXF/CSV REV12 aperta; 0 OBJ pubblicati |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
