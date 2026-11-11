@@ -50,6 +50,10 @@ La [REV11A](REV11A_QUOTE_PERROTTA.md) proponeva stime di insieme **250 × 135 ×
 
 La [REV11](REV11_RILIEVO_OFFICINA_CNC.md) richiede 48 misure del supporto reale e del movimento ruote. **Queste quote restano vuote**: il blueprint mostra l'esterno, non sezioni interne portanti, staffe, bulloni o caster in tutte le posizioni.
 
+## Ricalcolo REV13 degli estremi dei vertici DXF
+
+La [REV13](REV13_RILIEVI_2_5D.md), usando gli stessi sei DXF come ingresso, misura nei punti LWPOLYLINE **242,914 mm (SX)** e **243,474 mm (DX)**, contro **246,317 / 249,262 mm** del registro di quote vettoriali REV12. Si tratta di una **discordanza di metodo ancora aperta** pari a circa 3,403 e 5,788 mm. Non correggere la scala, attribuire i numeri all'originale MGM o usare gli ingombri come quote CNC finché la divergenza non è spiegata. Gli altri frontali risultano sostanzialmente coincidenti.
+
 ## Validazioni effettuate
 
 - [x] Estratte **6 proiezioni** dalla pagina PDF vettoriale originale.
