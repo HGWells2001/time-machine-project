@@ -1,6 +1,6 @@
 # Avanzamento delle lavorazioni
 
-**Aggiornamento REV13: 2026-11-11 | Fase: pre-progettazione.**
+**Aggiornamento REV14: 2026-11-11 | Fase: pre-progettazione.**
 
 Le parole **preparato** e **documentato** non significano **pronto per costruire**.
 
@@ -138,6 +138,19 @@ Le parole **preparato** e **documentato** non significano **pronto per costruire
 - [ ] Ricostruire superfici 3D e sottosquadri su evidenza fotografica; vietato presentare il pannello come piede.
 - [ ] Ottenere geometria vera delle 4 staffe e delle ruote, definire gli spessori dei gusci, giunti e CAM di officina.
 
+## Priorità 3-undecies: REV14 ricci 3D non portanti e audit Bézier
+
+- [x] Da 51 tracciati per lato REV12 realizzati **4 ornamenti a giorno** STL 3D: SX/DX con varianti BASSO/ALTO, **senza piastra rettangolare REV13**; [scheda REV14](REV14_RICCI_ARTISTICI_3D.md).
+- [x] Profondità solo **I / studio**: BASSO 14 + 3 mm, ALTO 27 + 8 mm; nessuna quota di scultura originale MGM dedotta dalle foto.
+- [x] **4/4 STL watertight** e monocomponente, QA con volumi, SHA256, 7 anteprime effettive render VTK.
+- [x] Risolta matematicamente la divergenza REV12/REV13: bbox PDF include Bézier control points; estremi delle vere curve a SX **242,917 × 151,742 mm**, a DX **243,480 × 151,747 mm** (G-Perrotta 2D; non precisione MGM).
+- [x] Quattro nuove righe Q018-Q021 nel registro delle quote, distinguendo bbox PDF dalla geometria della curva.
+- [x] ZIP privato di **24 file**, PDF A3 8 pagine, due DXF origine, generatori, tabella di audit e gate. Zero OBJ e nessun STL pubblicato nel repository.
+- [ ] Verificare dalle foto quali tratti sono rilievi o incisioni e quali sono veramente superfici scolpite sui gusci.
+- [ ] Riconciliare **due laterali e quattro frontali**, senza inventare la corrispondenza ai quattro supporti.
+- [ ] Definire i veri supporti d'acciaio, caster/freni e cavità; progettare giunto smontabile e spessore residuo in legno.
+- [ ] Verificare sottosquadri, CAM, staffaggi e un solo prototipo fisico prima di una serie.
+
 ## Priorità 4: grande disco posteriore
 
 - [x] Segnalata differenza tra riferimento Coleman 60″ e OBJ precedente.
@@ -160,4 +173,4 @@ Una lavorazione può essere segnata **PRONTA PER PREVENTIVO VINCOLANTE / FABBRIC
 
 ## Archivio esterno
 
-La REV13 rilievi DEMO è su Drive come `TimeMachine_REV13_RILIEVI_2_5D.zip`. La REV12 vettori Perrotta è su Drive come `TimeMachine_REV12_PERROTTA_VETTORI.zip`. La REV11A Perrotta è su Drive come `TimeMachine_REV11A_QUOTE_PERROTTA.zip`. La REV11 kit officina è su Drive come `TimeMachine_1960_REV11_RILIEVO_OFFICINA_CNC.zip`. La REV10 parametrici/rilievi è su Drive come `TimeMachine_REV10_KIT_RILIEVI_PARAMETRICO.zip`. La REV09 solidi di prova è su Drive come `TimeMachine_1960_REV09_SOLIDI_PROTOTIPO_CNC.zip`. La REV08 piedi in legno CNC è su Drive come `TimeMachine_1960_REV08_PIEDI_LEGNO_CNC.zip`. La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
+La REV14 ricci artistici è su Drive come `TimeMachine_REV14_RICCI_ARTISTICI.zip`. La REV13 rilievi DEMO è su Drive come `TimeMachine_REV13_RILIEVI_2_5D.zip`. La REV12 vettori Perrotta è su Drive come `TimeMachine_REV12_PERROTTA_VETTORI.zip`. La REV11A Perrotta è su Drive come `TimeMachine_REV11A_QUOTE_PERROTTA.zip`. La REV11 kit officina è su Drive come `TimeMachine_1960_REV11_RILIEVO_OFFICINA_CNC.zip`. La REV10 parametrici/rilievi è su Drive come `TimeMachine_REV10_KIT_RILIEVI_PARAMETRICO.zip`. La REV09 solidi di prova è su Drive come `TimeMachine_1960_REV09_SOLIDI_PROTOTIPO_CNC.zip`. La REV08 piedi in legno CNC è su Drive come `TimeMachine_1960_REV08_PIEDI_LEGNO_CNC.zip`. La REV07 telaio e piedi è su Drive come `TimeMachine_1960_COLEMAN_REV07_TELAIO_PIEDI.zip`. La REV06 interfaccia sedia/base è su Drive come `TimeMachine_1960_COLEMAN_REV06_INTERFACCIA_SEDIA_BASE.zip`. La REV05 sedia è su Drive come `TimeMachine_1960_COLEMAN_REV05_SEDIA_BERNINGHAUS.zip`. La REV03 sul basamento/piedi è disponibile su Google Drive con nome `TimeMachine_1960_COLEMAN_REV03_BASAMENTO_PIEDI.zip`. Questo repository conserva lo stato e i riferimenti, non dichiara automaticamente approvate le tavole dell'archivio.
