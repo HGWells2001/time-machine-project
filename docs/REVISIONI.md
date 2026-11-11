@@ -31,6 +31,8 @@
 
 | 2026-11-11 | REV13 rilievi 2.5D Perrotta | Generati 6 pannelli STL chiusi da curve REV12, 6 PNG, 8 tavole A3, CSV QA e script con prova di rigenerazione | ZIP 17 file su Drive privato; 18 risorse indicizzate, 129 totali; scheda GitHub | Profondità DEMO 6 mm e piastra 4 mm INVENTATE; 6 pannelli non sono 4 piedi 3D; divergenza DXF/CSV REV12 aperta; 0 OBJ pubblicati |
 
+| 2026-11-11 | REV14 ricci artistici 3D e audit matematico Bézier | Quattro STL autonomi senza piastra (sinistro/destro × BASSO/ALTO), 7 render, dossier 8 tavole A3, script e QA; risolta discrepanza bbox PDF vs curve | 13 link Drive verificati, 24 file nello ZIP, 142 risorse totali, 4 quote Q018-Q021 | Corpo 14/27 e rilievo 3/8 mm ipotesi, non 4 piedi completi, supporti/ruote assenti; NON CNC / zero OBJ GitHub |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
