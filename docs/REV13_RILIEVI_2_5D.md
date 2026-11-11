@@ -41,9 +41,13 @@ I tracciati estratti da Perrotta sono **curve aperte**; perciò **non è giustif
 
 **V - ancora da verificare**: corrispondenza fisica tra viste, profondità reale di ogni riccio, sottosquadri, facce posteriori, linea giunzione gusci, acciaio interno, caste(r)/ruote, freni, portata, giunti. Vedi [REV11 rilievo officina](REV11_RILIEVO_OFFICINA_CNC.md) e [issue #9](https://github.com/HGWells2001/time-machine-project/issues/9).
 
-### Discrepanza di misura rilevata nei DXF
+### Aggiornamento REV14
 
-Il **CSV quote REV12** riportava le larghezze laterali **246,317 mm (SX)** e **249,262 mm (DX)**. Il ricalcolo degli estremi dei **vertici LWPOLYLINE dei DXF REV12**, usati dal generatore, restituisce invece **242,914 mm (SX)** e **243,474 mm (DX)**. Gli scostamenti sono rispettivamente **3,403 mm** e **5,788 mm**. Questi due metodi di bounding box **non sono ancora riconciliati**. Non sostituire automaticamente le quote G ufficiali; registrare il conflitto e verificare possibili tratti/campionamento/coordinate prima di qualunque elaborato definitivo.
+La [REV14](REV14_RICCI_ARTISTICI_3D.md) ha risolto la discrepanza dei bounding box: le estensioni della REV12 derivano dal **rettangolo dei punti di controllo Bézier**, quelle della REV13 dalla **polilinea campionata**. Gli estremi matematici coincidono col DXF entro 0,006 mm. I quattro STL della REV14 sono inoltre **ornamenti autonomi a giorno**, non pannelli rettangolari; restano interpretazioni, non i piedi originali.
+
+## Discrepanza di misura rilevata nei DXF
+
+Il **CSV quote REV12** riportava le larghezze laterali **246,317 mm (SX)** e **249,262 mm (DX)**. Il ricalcolo degli estremi dei **vertici LWPOLYLINE dei DXF REV12**, usati dal generatore, restituisce invece **242,914 mm (SX)** e **243,474 mm (DX)**. Gli scostamenti sono rispettivamente **3,403 mm** e **5,788 mm**. Questi due metodi di bounding box **sono stati riconciliati nella REV14**. Non sostituire automaticamente le quote G ufficiali; registrare il conflitto e verificare possibili tratti/campionamento/coordinate prima di qualunque elaborato definitivo.
 
 Per i quattro frontali le misure da vertici DXF sono circa **126,44–126,45 × 133,82 mm**, coerenti con REV12.
 
