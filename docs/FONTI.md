@@ -1,6 +1,6 @@
 # Fonti e riferimenti | Time Machine Project
 
-**Ultima verifica:** 10 novembre 2026. **Scopo:** replica artigianale 1:1 del prop cinematografico MGM del 1960.
+**Ultima verifica:** 11 novembre 2026. **Scopo:** replica artigianale 1:1 del prop cinematografico MGM del 1960.
 
 Questa pagina elenca **fonti originali esterne** e i relativi usi tecnici. Per l'archivio dei materiali derivati consulta [Risorse e download](ARCHIVIO_RISORSE.md). Le misure delle repliche di Don Coleman non equivalgono automaticamente a quote certificate dell'esemplare MGM.
 
@@ -64,6 +64,10 @@ La tavola primaria S01 contiene un righello **0–12 inches**: sono state lette 
 ## Calibrazione e tracciamento vettoriale REV12
 
 Dalla fonte **S01**, tavola PDF originale (un'unica pagina vettoriale), sono state estratte le Bézier di 2 ricci laterali e 4 proiezioni di sostegni frontali, con copia **solo su Drive privato**. Il righello del PDF da **12 in** occupa circa **86,625 punti PDF** (calibrato dalla rasterizzazione a 4×), equivalente a 304,8 mm. Il parametro 3,518615 mm/punto corregge il precedente valore approssimato dedotto da screenshot nella REV11A. Il metodo e le quote sono in [REV12](REV12_VETTORI_PERROTTA_CNC.md). Fonte protetta Perrotta/Coleman: **non pubblicare le curve estratte nel repository pubblico**. Nessuna delle forme estratte fornisce dimensioni della carpenteria interna o del caster.
+
+## Studio di rilievo interpretativo REV13
+
+La [REV13](REV13_RILIEVI_2_5D.md) prende in ingresso le **sei proiezioni vettoriali della REV12**, a loro volta derivate dalla fonte S01. I nuovi STL sono pannelli 2.5D **interpretativi**, con spessore base e altezza del rilievo non presenti nel blueprint. Il confronto sugli estremi dei vertici DXF individua una discrepanza con gli ingombri tabellati nella REV12, ancora da chiarire. Nessuna fonte originale fornisce la profondità di ciascun riccio o la geometria delle staffe nascoste. Per copyright, superfici STL derivate da quelle curve e PNG restano sul Drive privato.
 
 ## Cronologia dei controlli
 
