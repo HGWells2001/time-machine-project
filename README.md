@@ -4,12 +4,12 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ## Stato del progetto
 
-**Fase: documentazione e pre-progettazione (REV14, 11 novembre 2026).** Nessun disegno è ancora approvato per la fabbricazione.
+**Fase: documentazione e pre-progettazione (REV15, 12 novembre 2026).** Nessun disegno è ancora approvato per la fabbricazione.
 
 | Sottoassieme | Stato | Prossima attività |
 | --- | --- | --- |
 | Basamento in legno | REV04: dossier 10 tavole, 4 schede dime, protocollo campioni; NON esecutivo | Rilievo quote, dime reali, giunzioni e verifica struttura |
-| Quattro piedi ornamentali | REV14: 4 STL volumetrici artistici autonomi (SX/DX, 2 profondità), 8 tavole A3, audit Bézier risolto; **non sono piedi completi né CNC** | Confermare superfici MGM, corrispondenza viste, acciaio/ruote, gusci e giunti da progettare |
+| Quattro piedi ornamentali | REV15: due famiglie frontali F1/F4 specchiate e F2/F3 coincidenti; 4 STL aperti in 4 corpi ciascuno, GLB e dossier 10 A3 | Foto per associare 2 laterali e 4 frontali, supporti acciaio/ruote, cavità e veri gusci CNC |
 | Sedia Berninghaus | REV05: dossier 8 tavole, quote grafiche di riscontro, schede falegname e tappezziere; NON esecutivo | Rilievo quote reali, mock-up, giunti e portata |
 | Grande disco posteriore | Rilevata discrepanza dimensionale tra riferimento Coleman e OBJ | Validare diametro e riprogettare geometria |
 | Corrimano e struttura | Riferimenti di metodo costruttivo | Sezioni, dime di curvatura e attacchi |
@@ -17,7 +17,7 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ### Ultima revisione
 
-- **[REV14: 4 ricci artistici in 3D e rettifica quote Bézier](docs/REV14_RICCI_ARTISTICI_3D.md)** · [REV13: pannelli 2.5D](docs/REV13_RILIEVI_2_5D.md) · [REV12: curve vettoriali Perrotta](docs/REV12_VETTORI_PERROTTA_CNC.md) · [REV11A: precedenti stime grafiche](docs/REV11A_QUOTE_PERROTTA.md) · [REV11: schede officina e controlli](docs/REV11_RILIEVO_OFFICINA_CNC.md) · [REV10: generatore parametrico](docs/REV10_RILIEVO_SUPPORTI_PARAMETRICO.md) · [REV09 solidi di prova](docs/REV09_SOLIDI_PROTOTIPO_CNC.md) · [REV08: superfici dei piedi](docs/REV08_PIEDI_LEGNO_CNC.md) · [REV07 carpenteria](docs/REV07_TELAIO_PIEDI.md) · [REV06 interfaccia sedia/basamento](docs/REV06_INTERFACCIA_SEDIA_BASE.md) · [REV05 sedia Berninghaus](docs/REV05_SEDIA_BERNINGHAUS.md), con PDF/ZIP su Drive privato. Nessun OBJ su GitHub.
+- **[REV15: due famiglie frontali e comparatore offline](docs/REV15_FRONTALI_DUE_FAMIGLIE_CNC.md)** · [REV14: ricci laterali artistici](docs/REV14_RICCI_ARTISTICI_3D.md) · [REV13: pannelli 2.5D](docs/REV13_RILIEVI_2_5D.md) · [REV12: curve vettoriali Perrotta](docs/REV12_VETTORI_PERROTTA_CNC.md) · [REV11A: precedenti stime grafiche](docs/REV11A_QUOTE_PERROTTA.md) · [REV11: schede officina e controlli](docs/REV11_RILIEVO_OFFICINA_CNC.md) · [REV10: generatore parametrico](docs/REV10_RILIEVO_SUPPORTI_PARAMETRICO.md) · [REV09 solidi di prova](docs/REV09_SOLIDI_PROTOTIPO_CNC.md) · [REV08: superfici dei piedi](docs/REV08_PIEDI_LEGNO_CNC.md) · [REV07 carpenteria](docs/REV07_TELAIO_PIEDI.md) · [REV06 interfaccia sedia/basamento](docs/REV06_INTERFACCIA_SEDIA_BASE.md) · [REV05 sedia Berninghaus](docs/REV05_SEDIA_BERNINGHAUS.md), con PDF/ZIP su Drive privato. Nessun OBJ su GitHub.
 
 ### Indice dei materiali e delle fonti
 - **[Tutte le risorse create, PDF, DXF e ZIP su Drive](docs/ARCHIVIO_RISORSE.md)**, con revisione, contenuti degli archivi e indicazione dei file contenenti OBJ.
@@ -42,7 +42,7 @@ Progetto di ricostruzione artigianale a grandezza naturale della **macchina del 
 
 ## Archivio risorse e politica di pubblicazione
 
-Il catalogo completo delle **142 risorse collegate** in questa fase del progetto è in [ARCHIVIO_RISORSE](docs/ARCHIVIO_RISORSE.md). Contiene i link Drive per tutte le versioni fino alla **REV14**, inclusi i PDF singoli, le tavole e gli ZIP precedenti.
+Il catalogo completo delle **159 risorse collegate** in questa fase del progetto è in [ARCHIVIO_RISORSE](docs/ARCHIVIO_RISORSE.md). Contiene i link Drive per tutte le versioni fino alla **REV15**, inclusi i PDF singoli, le tavole e gli ZIP precedenti.
 
 **Non caricare file `.obj` nel repository**: GitHub conserva soltanto documentazione, tabelle, link e cronologia. Gli eventuali OBJ esistenti restano esclusivamente negli archivi Drive, chiaramente segnalati. Il file [`.gitignore`](.gitignore) esclude OBJ e ZIP da successivi commit locali.
 
