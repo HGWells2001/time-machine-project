@@ -1,6 +1,6 @@
 # Fonti e riferimenti | Time Machine Project
 
-**Ultima verifica:** 11 novembre 2026. **Scopo:** replica artigianale 1:1 del prop cinematografico MGM del 1960.
+**Ultima verifica:** 12 novembre 2026. **Scopo:** replica artigianale 1:1 del prop cinematografico MGM del 1960.
 
 Questa pagina elenca **fonti originali esterne** e i relativi usi tecnici. Per l'archivio dei materiali derivati consulta [Risorse e download](ARCHIVIO_RISORSE.md). Le misure delle repliche di Don Coleman non equivalgono automaticamente a quote certificate dell'esemplare MGM.
 
@@ -74,6 +74,12 @@ La [REV13](REV13_RILIEVI_2_5D.md) prende in ingresso le **sei proiezioni vettori
 La [REV14](REV14_RICCI_ARTISTICI_3D.md) confronta la documentazione della fonte S01 con [Don Coleman, *The Feet*](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%205.htm). Coleman mostra master in due metà scolpiti sulle superfici esterne, poi calchi in resina con cavità adattata ai supporti metallici. **Non** documenta i nostri profili di fresatura CNC in legno, né la profondità esatta dei ricci. Il volume artistico a giorno della REV14 è una scelta **I**, non il profilo 3D MGM.
 
 L'audit REV14 usa il PDF Perrotta S01 e distingue esattamente il **bbox dei punti di controllo Bézier** dagli **estremi matematici della curva effettiva**. Il DXF campionato della REV12 differisce dall'analitico di meno di 0,006 mm: controllo digitale, non accuratezza fisica. Il [CSV di audit privato](https://drive.google.com/file/d/1p5nCZPTajpC-3ZY_sSo_cDo-WYGHwQvs/view?usp=drivesdk) conserva la prova numerica senza distribuire il disegno protetto.
+
+## REV15: simmetria geometrica dei quattro frontali e portata delle fonti
+
+La [REV15](REV15_FRONTALI_DUE_FAMIGLIE_CNC.md) confronta i quattro gruppi frontali delle curve **S01 Perrotta/Coleman**, preservati soltanto su Drive privato. Dal campionamento DXF risultano **F1/F4 quasi speculari** e **F2/F3 quasi identici**, ma non segue nessuna assegnazione automatica a quattro piedi fisici. L'[inventario](https://drive.google.com/file/d/1XFxsvsTKZn1ChLHMRFtO-YU-Bhi8bxa_/view?usp=drivesdk) e la [matrice delle 8 associazioni ancora ignote](https://drive.google.com/file/d/18Z_z6USVmcDqcc8T8vlqyKZ4Y46fMulN/view?usp=drivesdk) riportano le limitazioni.
+
+La pagina di Don Coleman [The Feet](https://colemanzone.com/Time_Machine_Project/Time%20Machine%20Build%202025/Time%20Machine%20Build%205.htm), ricontrollata il 12 novembre 2026, documenta due metà decorative adattate ai supporti d'acciaio con ruote; non definisce la profondità per la **nostra variante in legno CNC**. Gli STL e il comparatore della REV15 incorporano materiale derivato protetto, perciò rimangono su **Drive privato**.
 
 ## Cronologia dei controlli
 
