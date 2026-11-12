@@ -69,6 +69,10 @@ Le nuove quote corrette integrano, e non cancellano, le precedenti Q-013…Q-017
 
 **4/4 watertight**, volume positivo, uno stesso corpo per modello. L'ingombro esterno delle sculture supera l'ingombro della sola curva per la dilatazione artistica: non usare i circa 262 mm come quota Perrotta. Una topologia valida non autorizza un CAM né garantisce un vero incastro o una forma autentica.
 
+## Aggiornamento REV15: studio delle viste frontali
+
+La [REV15](REV15_FRONTALI_DUE_FAMIGLIE_CNC.md) ha analizzato **le quattro proiezioni FRONTALI** che nella REV14 erano rimaste esplicitamente separate. Ne risultano due famiglie di tracciati (F1/F4 quasi speculari, F2/F3 quasi identiche) e quattro STL di **linework 3D interpretativo**, ciascuno composto da quattro elementi separati. **Non è stato costruito né validato un solido 3D che unisca le viste laterali e frontali**; la corrispondenza resta aperta, come la carpenteria.
+
 ## Gate per la fase successiva
 
 - [ ] Fotografare e identificare quali tratti sono **bordi esterni**, **incisioni**, **rilievi**, ombre o superfici continue sul prop o sulla replica di Coleman.
