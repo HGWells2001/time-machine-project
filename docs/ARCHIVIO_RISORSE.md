@@ -1,6 +1,6 @@
-# Archivio risorse e download (fino alla REV14)
+# Archivio risorse e download (fino alla REV15)
 
-**Aggiornamento:** 2026-11-11 (REV14). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
+**Aggiornamento:** 2026-11-12 (REV15). Tutte le risorse sotto sono link **verificati su Google Drive** e corrispondono ai materiali creati/riutilizzati in questa sequenza di lavorazione. L'archivio include anche le versioni precedenti, per evitare di perdere lo storico.
 
 **Politica esplicita:** **nessun file `.obj` è caricato sul repository GitHub**. Gli archivi storici che contengono OBJ sono **soltanto linkati a Drive**, non copiati qui. Non confondere link e pubblicazione del contenuto. I file Drive restano **privati** e visibili a chi possiede i permessi.
 
@@ -10,10 +10,10 @@
 
 | Risorsa | Scopo | Link |
 | --- | --- | --- |
-| **REV14: 4 ricci ornamentali volumetrici (ZIP 24 file)** | 2 proiezioni laterali × 2 varianti artistiche, 4 STL, PDF e script; **zero OBJ** | [Drive: ZIP REV14](https://drive.google.com/file/d/1MAVoavHkYnLsMgjW-CHWR7ubl3U70BUG/view?usp=drivesdk) |
-| **REV14: dossier A3 8 tavole** | Render dei 4 modelli, audit esatto delle Bézier e gate artigiani | [Drive: dossier REV14](https://drive.google.com/file/d/1MQ1Gbbtt02X4dTqAiO7CGenMFB5fRId8/view?usp=drivesdk) |
-| **REV14: comparazione 4 sculture** | PNG renderizzati dagli STL effettivi, non immagini originali MGM | [Drive: panorama](https://drive.google.com/file/d/1iC76uSMELJYASww1o8d-hskaO0YYk6Ub/view?usp=drivesdk) |
-| **REV14: documentazione completa** | Fonte Perrotta/Coleman, distinzione G/D/I/V, 4 STL e correzione quote Q018–Q021 | [Scheda REV14](REV14_RICCI_ARTISTICI_3D.md) |
+| **REV15: quattro frontali da due master (ZIP 29 file)** | 4 STL a elementi disgiunti, GLB galleria, HTML offline, PDF e registri, **zero OBJ** | [Drive: REV15 completo](https://drive.google.com/file/d/1jjEdiSwOu3pzYq_YHkrOTkTBJHnUXohT/view?usp=drivesdk) |
+| **REV15: dossier A3 a 10 tavole** | Quote nominali 1:1, matrice simmetrie, confronto 3D e gate CNC | [Drive: PDF REV15](https://drive.google.com/file/d/1KKdvhp9mGhY7m5gh8SAD-NjPdRJaIU5B/view?usp=drivesdk) |
+| **REV15: comparatore privato offline** | Sovrappone F1-F4, specchia il secondo profilo, senza API | [Drive: HTML offline](https://drive.google.com/file/d/1U3eDs7Xbag74IsDdWX37Su_OoDcP5P_s/view?usp=drivesdk) |
+| **REV15: note tecniche** | F1/F4 speculari, F2/F3 vicine, 8 assegnazioni 3D non note | [Scheda REV15](REV15_FRONTALI_DUE_FAMIGLIE_CNC.md) |
 
 ## Registro completo delle risorse create o conservate
 
@@ -174,6 +174,24 @@
 | R141 | REV14 | STL DX BASSO; volume ornamentale NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/18zaC7__osLyP09mC0VNU8g0g9s3YSc2A/view?usp=drivesdk) |
 | R142 | REV14 | STL DX ALTO; volume ornamentale NON CNC | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1ADJrDpjagn8o_LbWSMPDMzHjH8xm30xN/view?usp=drivesdk) |
 
+| R143 | REV15 | ZIP REV15 29 file: 4 STL, GLB, script, HTML, PDF e DXF privati, ZERO OBJ | ZIP | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1jjEdiSwOu3pzYq_YHkrOTkTBJHnUXohT/view?usp=drivesdk) |
+| R144 | REV15 | PDF 10 tavole A3 con due pagine 1:1 nominale | PDF | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1KKdvhp9mGhY7m5gh8SAD-NjPdRJaIU5B/view?usp=drivesdk) |
+| R145 | REV15 | PNG 4 render effettivi frontali interpretativi | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1jf8RZ-W5i8mPHlXaO9Oh4D5pR8XZ95BH/view?usp=drivesdk) |
+| R146 | REV15 | CSV 6 confronti Hausdorff diretti/specchiati | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/17hE6P1gIMhHQqnwxOLaxUlAZ8oiF9Tre/view?usp=drivesdk) |
+| R147 | REV15 | CSV inventario 2 laterali e 4 frontali Perrotta | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1XFxsvsTKZn1ChLHMRFtO-YU-Bhi8bxa_/view?usp=drivesdk) |
+| R148 | REV15 | CSV 8 mappature ortogonali NON DETERMINATE | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/18Z_z6USVmcDqcc8T8vlqyKZ4Y46fMulN/view?usp=drivesdk) |
+| R149 | REV15 | CSV QA 4 STL watertight ma 4 componenti ciascuno | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1z6L7Ca8bdhYxgg6HJu1dD_X6a4czX2kB/view?usp=drivesdk) |
+| R150 | REV15 | JSON parametri illustrativi depth e stroke I | JSON | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1GBB4vLSSMzQG9EOzPINAprCsLUxuyOIm/view?usp=drivesdk) |
+| R151 | REV15 | CSV 10 gate G0-G9, G1 sola coerenza digitale | CSV | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1-IrFNLYTH_-P8-TLk_m6n6d2Tc3G4rH8/view?usp=drivesdk) |
+| R152 | REV15 | HTML comparatore privato offline con curve protette | HTML | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1U3eDs7Xbag74IsDdWX37Su_OoDcP5P_s/view?usp=drivesdk) |
+| R153 | REV15 | Python generatore, rigenerazione da DXF privati | PY | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/157kfIqh2eXF_zuFtOA4oMfa5-OwWpMg8/view?usp=drivesdk) |
+| R154 | REV15 | GLB 4 oggetti separati, NO assieme macchina | GLB | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/13Geez_dmdBCD0buaB5z7tVz8nmUMDRuW/view?usp=drivesdk) |
+| R155 | REV15 | STL F1 master A interpretativo, non guscio | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1Of5ZBK8y-PuaIKSmu0EJOsQQHYgYTzdu/view?usp=drivesdk) |
+| R156 | REV15 | STL F2 master B interpretativo, non guscio | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/13ZECDktQ2i-qt29yGIFnZyCRBhrUT3fr/view?usp=drivesdk) |
+| R157 | REV15 | STL F3 copia master B, non guscio | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1-EiD9CEf6tJ-DcBIoa6O4rbywmjGKdBm/view?usp=drivesdk) |
+| R158 | REV15 | STL F4 specchio master A, non guscio | STL | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1Ld1yBo32O6MZfKJN0Dk9sTHIhcv5cdBD/view?usp=drivesdk) |
+| R159 | REV15 | PNG atlante tutte le sei proiezioni | PNG | STUDIO / NON CNC | [Drive](https://drive.google.com/file/d/1jmqaypD0xuyoTdFci-bACG7yUGbrVu-y/view?usp=drivesdk) |
+
 Per filtro, stato e URL in formato tabellare: [catalogo CSV](../data/catalogo_risorse.csv). Nessun OBJ è stato aggiunto al repository.
 
 Per la REV06, il ZIP R24 contiene 12 file: un dossier PDF di 10 pagine, un DXF di soli bounding box, due registri CSV, un JSON, una scheda artigiani MD, 4 PNG di anteprima e 2 MD per fonti/lettura.
@@ -187,6 +205,8 @@ Il pacchetto REV10 (R75) include 34 membri. Dettaglio: 4 STL G sorgente, script 
 Il pacchetto REV11 (R87) contiene 15 file: due PDF (A3 9 pagine e A4 4 pagine), tre template di rilievo/controllo CSV più gates e fonte CSV, JSON vuoto, script di validazione e report di test BLOCKED, README, due anteprime e manifest SHA256. Nessun OBJ, STL, STEP o G-code; i file grafici REV10 restano nel loro archivio precedente.
 
 Il pacchetto REV11A (R97) include 7 file: dossier A3 di 2 pagine, due CSV, tre piccoli estratti grafici del blueprint con attribuzione e README. Gli estratti della fonte protetta restano **esclusivamente nel Drive privato**. Nessun OBJ o esecutivo CAD è stato aggiunto.\n\nIl pacchetto REV12 (R101) contiene **24 file**: 6 DXF, 6 SVG, PDF A3 a 6 pagine, due script, registri JSON/CSV, 4 anteprime e README. Il PDF originale Perrotta non è ridistribuito; tutti i tracciati da esso derivati rimangono sul Drive **privato**. Nessun OBJ, mesh o G-code.\n\n**REV13 (R112):** 17 file: sei STL di rilievi DEMO, sei PNG preview, dossier A3 di otto pagine, CSV di test, JSON parametri, script e README. Nessun OBJ. Le geometrie derivate dalla fonte protetta Perrotta sono conservate **soltanto su Drive privato**.\n\n**REV14 (R130)** comprende 24 file: 2 DXF dei soli ricci laterali conservati in Drive privato, 4 STL scultorei NON CNC (2 lati × 2 interpretazioni), 7 render PNG, 8 tavole A3, 2 tabelle audit Bézier, QA, parametri, gate, generatori, README e manifest SHA256. Nessun OBJ o G-code. Il controllo analitico spiega la discrepanza fra REV12/REV13 senza attribuire una precisione fittizia al prop MGM.
+
+**REV15 (R143):** 29 file, 6 DXF sorgenti privati, 4 STL a elementi separati (due master + specchio e copia), un GLB di galleria NON assemblata, comparatore HTML offline, dieci tavole A3, inventari e gate, script rigenerabile e manifest SHA256. Le curve Perrotta e gli STL derivati sono custoditi soltanto su Drive privato. Nessun OBJ, G-code o tavola originale integrale nel repository GitHub.
 
 ## Come trovare i singoli file negli ZIP
 
