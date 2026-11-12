@@ -33,6 +33,8 @@
 
 | 2026-11-11 | REV14 ricci artistici 3D e audit matematico Bézier | Quattro STL autonomi senza piastra (sinistro/destro × BASSO/ALTO), 7 render, dossier 8 tavole A3, script e QA; risolta discrepanza bbox PDF vs curve | 13 link Drive verificati, 24 file nello ZIP, 142 risorse totali, 4 quote Q018-Q021 | Corpo 14/27 e rilievo 3/8 mm ipotesi, non 4 piedi completi, supporti/ruote assenti; NON CNC / zero OBJ GitHub |
 
+| 2026-11-12 | REV15 frontali in due famiglie | Confrontate 6 coppie frontali: F1/F4 specchio entro 0,0067 mm e F2/F3 entro 0,0103 mm; 4 STL interpretativi disgiunti, galleria GLB, HTML offline, PDF 10 A3 | 17 risorse Drive private nuove, ZIP 29 file, 159 risorse catalogate; documentazione GitHub | Le 4 viste non identificano i 4 piedi fisici; 8 assegnazioni non note, spessori ipotetici, supporti/ruote assenti; NON CNC, zero OBJ |
+
 ## Regole di revisione
 
 - Ogni nuova revisione deve elencare: cosa cambia, perché, fonti, parti coinvolte, controlli superati e domande aperte.
